@@ -55,9 +55,19 @@ Załączniki w BIP i WWW powinny być oceniane zgodnie z ich funkcją. Stary PDF
 
 Załączniki wymagają metadanych: tytułu, daty publikacji, właściciela, statusu, formatu, informacji o dostępności i powiązania z treścią nadrzędną.
 
+## Treści zewnętrzne
+
+Treści pochodzące od innych podmiotów powinny być oznaczone jako materiały zewnętrzne, z informacją o źródle, podstawie publikacji i ograniczeniach modyfikacji. Jeżeli treść nie może być modyfikowana, podmiot jest zobowiązany do zachowania decyzji o udostępnieniu, opisu kontekstu oraz informacji o tym, kto przekazał materiał i na jakiej podstawie.
+
 ## Relacja do informacji publicznej
 
 Jeżeli treść dotyczy spraw publicznych, wycofanie z publikacji powinno uwzględniać prawo dostępu do informacji publicznej. W niektórych sytuacjach właściwe będzie pozostawienie treści publicznej jako archiwalnej, w innych udostępnianie na wniosek albo ograniczenie publikacji z powodu danych osobowych.
+
+Kryteria wyboru:
+
+- dostęp publiczny: gdy treść ma wartość informacyjną, historyczną lub kontrolną, nie narusza ochrony danych osobowych i można ją jasno oznaczyć jako archiwalną,
+- dostęp na wniosek: gdy dalsza publiczna publikacja jest ryzykowna, ale zasób ma wartość dokumentacyjną lub archiwalną,
+- dostęp ograniczony: gdy przepisy, tajemnica lub ochrona danych osobowych wymagają ograniczenia dostępu, a zasób musi być przechowywany.
 
 Decyzja powinna być udokumentowana zgodnie z [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md).
 

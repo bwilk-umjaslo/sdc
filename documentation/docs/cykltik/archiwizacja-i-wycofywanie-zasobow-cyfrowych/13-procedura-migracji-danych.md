@@ -52,7 +52,7 @@ Należy opisać relację między polami systemu źródłowego i docelowego. Mapo
 
 ### 4. Eksport
 
-Eksport powinien być wykonany w formacie możliwym do odczytu i kontroli. Dla danych tabelarycznych właściwe mogą być formaty CSV albo XML, dla dokumentów formaty trwałe, a dla metadanych struktury jawne i udokumentowane. Eksport powinien być powtarzalny i opisany.
+Eksport powinien być wykonany w formacie możliwym do odczytu i kontroli. Dla danych tabelarycznych właściwe mogą być formaty CSV albo XML, dla dokumentów formaty trwałe, a dla metadanych struktury jawne i udokumentowane. Eksport powinien być powtarzalny i opisany. Przed rozpoczęciem importu należy zachować oryginał albo kopię kontrolną oraz przeprowadzić test odtworzenia tego eksportu w niezależnym środowisku.
 
 ### 5. Transformacja
 

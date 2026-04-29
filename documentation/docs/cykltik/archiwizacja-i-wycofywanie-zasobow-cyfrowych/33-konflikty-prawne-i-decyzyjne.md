@@ -36,7 +36,7 @@ Jeżeli obowiązki pozostają w napięciu, należy dążyć do rozwiązania prop
 
 **Opis konfliktu:** zasób archiwalny jest niedostępny cyfrowo, ale ma wartość historyczną, dowodową albo informacyjną. Pojawia się pytanie, czy należy go usunąć, naprawić, oznaczyć albo udostępniać inaczej.
 
-**Podstawy prawne:** obowiązki dostępności cyfrowej, przepisy o informacji publicznej, przepisy archiwalne, zasady prowadzenia dokumentacji i udostępniania informacji.
+**Podstawy prawne:** ustawa o dostępności cyfrowej, ustawa o dostępie do informacji publicznej, ustawa o narodowym zasobie archiwalnym i archiwach, ustawa o krajowym systemie ewidencji dokumentów i zarządzaniu dokumentacją elektroniczną oraz obowiązujące rozporządzenia wykonawcze dotyczące instrukcji kancelaryjnej i BIP.
 
 **Zasada rozstrzygnięcia:** niedostępność nie jest samodzielną podstawą usunięcia zasobu. Należy ocenić, czy zasób pozostaje publiczny, czy będzie udostępniany na wniosek, czy wymaga naprawy, opisu, transkrypcji albo dostępu alternatywnego. Decyzja powinna uwzględniać [Standard dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md) i [Alternatywny dostęp do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md).
 
@@ -44,7 +44,7 @@ Jeżeli obowiązki pozostają w napięciu, należy dążyć do rozwiązania prop
 
 **Opis konfliktu:** dokument zawiera dane osobowe i jednocześnie dotyczy spraw publicznych albo znajduje się w BIP. Trzeba rozstrzygnąć, czy dane nadal mogą być publiczne.
 
-**Podstawy prawne:** RODO, ustawa o ochronie danych osobowych, przepisy o dostępie do informacji publicznej, przepisy BIP, przepisy archiwalne i branżowe okresy przechowywania.
+**Podstawy prawne:** RODO (rozporządzenie 2016/679), ustawa o ochronie danych osobowych, ustawa o dostępie do informacji publicznej, ustawa o narodowym zasobie archiwalnym i archiwach, ustawa o dostępności cyfrowej oraz przepisy wykonawcze do BIP i branżowe okresy przechowywania.
 
 **Zasada rozstrzygnięcia:** należy odróżnić przechowywanie dokumentu od publicznej publikacji danych. Możliwe jest zachowanie oryginału w dokumentacji, ograniczenie ekspozycji publicznej, anonimizacja kopii publicznej albo dostęp na wniosek. RODO nie uzasadnia automatycznego zniszczenia dokumentu, a informacja publiczna nie uzasadnia nadmiernej publikacji danych osobowych.
 
@@ -52,7 +52,7 @@ Jeżeli obowiązki pozostają w napięciu, należy dążyć do rozwiązania prop
 
 **Opis konfliktu:** treść BIP jest nieaktualna, błędna albo zawiera dane wymagające ograniczenia, ale jej usunięcie może naruszyć jawność i historię działania podmiotu.
 
-**Podstawy prawne:** przepisy o BIP, ustawa o dostępie do informacji publicznej, przepisy archiwalne, instrukcja kancelaryjna i JRWA.
+**Podstawy prawne:** ustawa o dostępie do informacji publicznej, ustawa o narodowym zasobie archiwalnym i archiwach, ustawa o krajowym systemie ewidencji dokumentów i zarządzaniu dokumentacją elektroniczną, instrukcja kancelaryjna i JRWA oraz przepisy wykonawcze dotyczące BIP.
 
 **Zasada rozstrzygnięcia:** treści BIP nie należy usuwać bez decyzji i zachowania metadanych publikacji. Należy rozważyć korektę, oznaczenie archiwalne, publikację informacji o zmianie, anonimizację kopii publicznej albo wycofanie z publikacji z dostępem na wniosek. Administrator BIP wykonuje czynność techniczną po decyzji właściciela zasobu.
 

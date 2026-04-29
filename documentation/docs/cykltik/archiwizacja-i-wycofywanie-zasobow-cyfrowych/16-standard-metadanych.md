@@ -20,7 +20,7 @@ Celem standardu jest określenie metadanych potrzebnych do zarządzania zasobem 
 
 ## Zakres
 
-Standard stosuje się do dokumentów elektronicznych, treści BIP i WWW, załączników, multimediów, rekordów baz danych, eksportów systemowych, paczek archiwalnych i zasobów historycznych.
+Standard stosuje się do dokumentów elektronicznych, treści BIP i WWW, załączników, multimediów, rekordów baz danych, eksportów systemowych, paczek archiwalnych, zasobów historycznych oraz danych systemowych i konfiguracji.
 
 ## Zasady
 
@@ -78,7 +78,8 @@ Dla zasobów przekazywanych do archiwum zakładowego, repozytorium archiwalnego 
 - ograniczenia dostępu,
 - kategoria archiwalna i okres przechowywania,
 - informacja o podpisach, pieczęciach albo znacznikach czasu,
-- protokół przekazania.
+- protokół przekazania,
+- opis danych systemowych i konfiguracji oraz relacji między systemami.
 
 ## Wymagania rozszerzone dla migracji
 

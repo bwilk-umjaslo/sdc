@@ -59,7 +59,7 @@ Należy sprawdzić integracje, API, zależności raportowe, konta użytkowników
 
 ### 4. Analiza obowiązków prawnych
 
-Należy ustalić obowiązki wynikające z JRWA, kategorii A/B, informacji publicznej, BIP, RODO, przepisów branżowych, umów, finansowania projektów i dostępności cyfrowej. W analizie uczestniczą właściciel systemu, właściciel zasobów, archiwum zakładowe, IOD i obsługa prawna odpowiednio do ryzyka.
+Należy ustalić obowiązki wynikające z JRWA, kategorii A/B, informacji publicznej, BIP, RODO, przepisów branżowych, umów, finansowania projektów i dostępności cyfrowej. W analizie uczestniczą właściciel systemu, właściciel zasobów, archiwum zakładowe, IOD i obsługa prawna odpowiednio do ryzyka. Analiza powinna również objąć wymagania umowne wobec wykonawcy systemu, w tym prawo do eksportu danych, dokumentacji API i wsparcie migracyjne.
 
 ### 5. Plan migracji
 

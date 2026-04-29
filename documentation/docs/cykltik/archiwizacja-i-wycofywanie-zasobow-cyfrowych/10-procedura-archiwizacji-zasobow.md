@@ -22,7 +22,7 @@ Procedura łączy archiwizację operacyjną, czyli zachowanie zasobu na potrzeby
 
 ## Zakres
 
-Procedurę stosuje się do dokumentów elektronicznych, treści WWW i BIP, załączników, multimediów, baz danych, zasobów z repozytoriów plików, danych z systemów dziedzinowych, materiałów projektowych, formularzy elektronicznych oraz dokumentacji technicznej systemów.
+Procedurę stosuje się do dokumentów elektronicznych, treści WWW i BIP, załączników, multimediów, baz danych, zasobów z repozytoriów plików, danych z systemów dziedzinowych, materiałów projektowych, formularzy elektronicznych, danych systemowych i konfiguracji oraz dokumentacji technicznej systemów.
 
 Procedura ma zastosowanie, gdy występuje co najmniej jedna z przesłanek:
 
@@ -45,6 +45,7 @@ Zasób archiwalny powinien zachować:
 - powiązanie ze sprawą albo kontekstem publikacji,
 - informację o właścicielu zasobu,
 - informację o statusie i dacie decyzji,
+- dane systemowe i konfigurację oraz informacje o strukturze i relacjach,
 - dane potrzebne do odczytu w czasie,
 - ślad integralności i autentyczności.
 

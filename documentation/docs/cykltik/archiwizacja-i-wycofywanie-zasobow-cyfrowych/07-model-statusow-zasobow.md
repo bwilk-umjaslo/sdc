@@ -45,7 +45,7 @@ Zmiana statusu powinna byÄ‡ dokumentowana. Minimalne metadane zmiany to data,
 ## Zasady stosowania statusu
 
 Status nie zastÄ™puje kategorii archiwalnej. Status opisuje stan zarzÄ…dzania zasobem, a kategoria archiwalna wynika z kwalifikacji dokumentacji. Oba elementy powinny byÄ‡ powiÄ…zane w metadanych.
-
+Przykład rozróżnienia: zasób informacyjny, który pozostaje publicznie dostępny jako dokument historyczny, powinien otrzymać status „archiwalny”. Zasób z ograniczeniami wynikającymi z ochrony danych osobowych lub tajemnicy powinien otrzymać status „wycofany z publikacji” i być wycofany z aktywnej prezentacji, przy jednoczesnym zachowaniu dostępu na wniosek lub w archiwum.
 Status nie zastÄ™puje decyzji o wycofaniu. JeĹĽeli status zmienia siÄ™ na wycofany z publikacji, przeznaczony do brakowania albo przekazany, podmiot powinien mieÄ‡ podstawÄ™ decyzji i Ĺ›lad odpowiedzialnoĹ›ci.
 
 Status powinien byÄ‡ widoczny dla osĂłb zarzÄ…dzajÄ…cych zasobem. W przypadku treĹ›ci publicznych uĹĽytkownik powinien otrzymaÄ‡ zrozumiaĹ‚e oznaczenie, jeĹĽeli treĹ›Ä‡ jest archiwalna, nieaktualna albo dostÄ™pna tylko na wniosek.

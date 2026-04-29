@@ -50,6 +50,12 @@ Dostęp publiczny jest właściwy, gdy treść nadal ma znaczenie informacyjne, 
 
 Treść publiczna powinna być oznaczona tak, aby użytkownik wiedział, że może być nieaktualna i nie powinna być traktowana jako bieżąca podstawa działania.
 
+### Kryteria wyboru rodzaju dostępu
+
+- Dostęp publiczny: gdy zasób ma znaczną wartość informacyjną lub historyczną, nie zawiera danych osobowych wymagających ograniczenia, a użytkownik może być właściwie poinformowany o statusie archiwalnym.
+- Dostęp na wniosek: gdy dalsza publiczna publikacja może rodzić ryzyko, ale zasób nadal powinien być możliwy do uzyskania, np. ze względu na wartość dowodową, historyczną lub informacyjną.
+- Dostęp ograniczony: gdy przepisy, ochrona danych osobowych lub tajemnica ustawowo chroniona wymagają ograniczenia dostępu, a zasób musi być przechowywany.
+
 ## Dostęp na wniosek
 
 Dostęp na wniosek jest właściwy, gdy dalsza publiczna publikacja nie jest potrzebna albo może rodzić ryzyka, ale zasób nadal powinien być możliwy do uzyskania. Dotyczy to zwłaszcza dokumentów zawierających dane osobowe, starych załączników, materiałów wymagających indywidualnej oceny albo zasobów przechowywanych poza serwisem.

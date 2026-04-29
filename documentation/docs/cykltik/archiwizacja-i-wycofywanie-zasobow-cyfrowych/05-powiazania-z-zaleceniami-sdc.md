@@ -27,11 +27,13 @@ Procedura archiwizacji przejmuje z przeglÄ…du informacjÄ™ o statusie dokum
 
 ## TreĹ›ci pochodzÄ…ce od innych podmiotĂłw
 
-TreĹ›ci pochodzÄ…ce od innych podmiotĂłw mogÄ… mieÄ‡ ograniczonÄ… moĹĽliwoĹ›Ä‡ modyfikacji. Podmiot publikujÄ…cy nie zawsze jest twĂłrcÄ… dokumentu, ale odpowiada za sposĂłb jego udostÄ™pnienia w swoim serwisie, oznaczenie, kontekst publikacji i informacjÄ™ dla uĹĽytkownika.
+Treści pochodzące od innych podmiotów mogą mieć ograniczoną możliwość modyfikacji. Podmiot publikujący nie zawsze jest twórcą dokumentu, ale odpowiada za sposób jego udostępnienia w swoim serwisie, oznaczenie, kontekst publikacji i informację dla użytkownika. W metadanych warto wskazać źródło treści zewnętrznej oraz ograniczenia prawne i techniczne związane z jej dalszym przetwarzaniem.
 
-W takich przypadkach archiwizacja pomaga zachowaÄ‡ kontekst: kto przekazaĹ‚ materiaĹ‚, dlaczego zostaĹ‚ opublikowany, czy byĹ‚ wymagany przepisami, czy wymagaĹ‚ dostÄ™pnoĹ›ci, czy zastosowano dostÄ™p alternatywny i kiedy podjÄ™to decyzjÄ™ o wycofaniu z publikacji.
+W takich przypadkach archiwizacja pomaga zachować kontekst: kto przekazał materiał, dlaczego został opublikowany, czy był wymagany przepisami, czy wymagał dostępności, czy zastosowano dostęp alternatywny i kiedy podjęto decyzję o wycofaniu z publikacji. Jeżeli treść zewnętrzna nie może być zmodyfikowana, decyzje o archiwizacji i wycofaniu powinny uwzględniać dokumentację źródła i kontakt do podmiotu udostępniającego.
 
-Procedura archiwizacji nie zastÄ™puje oceny treĹ›ci zewnÄ™trznej, ale wskazuje, jak utrzymaÄ‡ metadane, decyzjÄ™ i Ĺ›lad odpowiedzialnoĹ›ci.
+Procedura archiwizacji nie zastępuje oceny treści zewnętrznej, ale wskazuje, jak utrzymać metadane, decyzję i ślad odpowiedzialności.
+
+Małe jednostki bez archiwum zakładowego mogą prowadzić prosty rejestr i korzystać z konsultacji jednostki nadrzędnej lub zewnętrznego specjalisty, aby zachować minimalny poziom odpowiedzialności i zgodności.
 
 ## DostÄ™pnoĹ›Ä‡ multimediĂłw i komunikacji masowej
 

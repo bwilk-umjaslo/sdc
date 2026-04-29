@@ -81,6 +81,8 @@ Możliwe decyzje to:
 - przekazać do archiwum zakładowego,
 - przygotować do brakowania, jeżeli pozwalają na to przepisy i kategoria dokumentacji.
 
+Decyzję "oznaczyć jako archiwalną" powinno się stosować, gdy zasób pozostaje publicznie dostępny jako materiał historyczny lub dokument informacyjny. Decyzję "wycofać z publikacji i zachować" stosuje się, gdy zasób ma być usunięty z aktywnego kanału, ale musi pozostać w repozytorium, archiwum lub być udostępniony na wniosek.
+
 ### 8. Dokumentowanie decyzji
 
 Decyzję należy zapisać w rejestrze albo formularzu. Minimalny zapis obejmuje identyfikator treści, powód, podstawę, status przed decyzją, status po decyzji, sposób dalszego dostępu, osobę odpowiedzialną i datę.

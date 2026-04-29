@@ -49,7 +49,62 @@ MateriaĹ‚ nie zastÄ™puje instrukcji kancelaryjnej, JRWA, instrukcji archiw
 Kolejne czÄ™Ĺ›ci materiaĹ‚u rozwijajÄ… procedury, standardy i narzÄ™dzia wdroĹĽeniowe. ObejmujÄ… w szczegĂłlnoĹ›ci procedurÄ™ archiwizacji zasobĂłw, procedurÄ™ wycofywania treĹ›ci, procedurÄ™ wycofywania systemĂłw, procedurÄ™ migracji danych, kwalifikacjÄ™ archiwalnÄ…, standard metadanych, standard formatĂłw archiwalnych, standard integralnoĹ›ci i autentycznoĹ›ci, dostÄ™p do treĹ›ci archiwalnych, dostÄ™p alternatywny, listy kontrolne, formularze decyzji, rejestry i schematy procesĂłw.
 
 Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logikÄ™ decyzji, procedury opisujÄ… przebieg dziaĹ‚aĹ„, standardy okreĹ›lajÄ… minimalnÄ… jakoĹ›Ä‡ zasobu, a narzÄ™dzia pomagajÄ… udokumentowaÄ‡ decyzje.
+## Procedury i standardy
 
+- [Procedura archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md)
+- [Procedura wycofywania treści](./11-procedura-wycofywania-tresci.md)
+- [Procedura wycofywania systemów](./12-procedura-wycofywania-systemow.md)
+- [Procedura migracji danych](./13-procedura-migracji-danych.md)
+- [Procedura kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md)
+- [Procedura przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md)
+- [Standard metadanych](./16-standard-metadanych.md)
+- [Standard formatów archiwalnych](./17-standard-formatow-archiwalnych.md)
+- [Standard integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md)
+- [Standard dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md)
+- [Alternatywny dostęp do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md)
+- [Archiwizacja w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md)
+- [Retencja i dane osobowe](./22-retencja-i-dane-osobowe.md)
+- [Integracja z EZD](./23-integracja-z-ezd.md)
+- [Wymagania dla systemów](./24-wymagania-dla-systemow.md)
+- [Kryteria wycofania systemu](./25-kryteria-wycofania-systemu.md)
+- [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md)
+
+## Modele wdrożeniowe i organizacyjne
+
+- [Modele wdrożeniowe](./27-modele-wdrozeniowe.md)
+- [Model dla małych podmiotów](./28-model-dla-malych-podmiotow.md)
+- [Model dla dużych podmiotów](./29-model-dla-duzych-podmiotow.md)
+- [Mapa odpowiedzialności](./30-mapa-odpowiedzialnosci.md)
+
+## Praktyka i ryzyka
+
+- [Scenariusze praktyczne](./31-scenariusze-praktyczne.md)
+- [Przypadki szczególne](./32-przypadki-szczegolne.md)
+- [Konflikty prawne i decyzyjne](./33-konflikty-prawne-i-decyzyjne.md)
+- [Najczęstsze błędy](./34-najczestsze-bledy.md)
+
+## Narzędzia i wzory
+
+- [Lista kontrolna archiwizacji](./35-lista-kontrolna-archiwizacji.md)
+- [Lista kontrolna wycofania treści](./36-lista-kontrolna-wycofania-tresci.md)
+- [Lista kontrolna wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md)
+- [Formularz decyzji archiwizacyjnej](./38-formularz-decyzji-archiwizacyjnej.md)
+- [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md)
+- [Rejestr decyzji archiwizacyjnych](./40-rejestr-decyzji-archiwizacyjnych.md)
+- [Rejestr wycofania systemów](./41-rejestr-wycofania-systemow.md)
+- [Wzór opisu treści archiwalnej](./42-wzor-opisu-tresci-archiwalnej.md)
+- [Wzór informacji o dostępie alternatywnym](./43-wzor-informacji-o-dostepie-alternatywnym.md)
+
+## Schematy procesów
+
+- [Schemat procesu archiwizacji](./44-schemat-procesu-archiwizacji.md)
+- [Schemat procesu wycofania systemu](./45-schemat-procesu-wycofania-systemu.md)
+
+## Słownik i źródła
+
+- [Słownik pojęć](./46-slownik-pojec.md)
+- [Źródła i opracowania](./47-zrodla-i-opracowania.md)
+- [Historia wersji](./48-historia-wersji.md)
 ## Narzędzia i procedury incydentowe
 
 - [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md) - sposób postępowania po stwierdzeniu usunięcia, utraty lub nieprawidłowej archiwizacji zasobu cyfrowego.
