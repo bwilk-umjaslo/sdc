@@ -70,6 +70,12 @@ Procedurę stosuje się niezależnie od przyczyny zdarzenia, w szczególności g
 
 **Wniosek organizacyjny:** danych osobowych nie należy przechowywać dłużej niż to konieczne, ale nie należy automatycznie utożsamiać RODO z obowiązkiem natychmiastowego usuwania dokumentów. Jeżeli incydent dotyczy zasobu z danymi osobowymi, należy włączyć IOD i rozdzielić ocenę dalszej publikacji od oceny obowiązku przechowywania.
 
+### Incydent archiwizacji a incydent ochrony danych
+
+Ta procedura dotyczy incydentu archiwizacji, czyli utraty, usunięcia, uszkodzenia, niepełnej archiwizacji, utraty metadanych albo braku możliwości odczytu zasobu. Zdarzenie może jednak równocześnie stanowić incydent ochrony danych osobowych.
+
+Jeżeli wystąpiła utrata danych osobowych, nieuprawniony dostęp, ujawnienie danych, brak kontroli nad danymi albo brak możliwości ustalenia, kto miał dostęp do danych, należy włączyć IOD i rozważyć uruchomienie odrębnej procedury naruszenia ochrony danych osobowych. Ocena RODO nie zastępuje decyzji archiwalnej, a decyzja archiwalna nie zastępuje oceny naruszenia ochrony danych.
+
 ## Typy incydentów
 
 | Typ incydentu | Opis | Główne ryzyko |
@@ -264,6 +270,7 @@ Najważniejsze ryzyka to:
 
 ## Powiązania
 
+- [Scenariusze praktyczne](./31-scenariusze-praktyczne.md)
 - [Model decyzyjny](./08-model-decyzyjny.md)
 - [Model ryzyk](./09-model-ryzyk.md)
 - [Procedura archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md)

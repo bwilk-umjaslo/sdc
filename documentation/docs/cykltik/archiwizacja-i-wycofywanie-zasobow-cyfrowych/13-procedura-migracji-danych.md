@@ -84,6 +84,23 @@ Migracja powinna zachować:
 - informację o dostępie publicznym albo ograniczonym,
 - dane potrzebne do archiwizacji formalnej.
 
+## Wariant minimalny (system ograniczony)
+
+Jeżeli system nie posiada eksportu danych, logów, metadanych albo wersjonowania, migrację należy poprzedzić zabezpieczeniem minimalnym. Brak funkcji systemu trzeba opisać jako ryzyko i uwzględnić w protokole migracji.
+
+W wariancie minimalnym należy:
+
+- wykonać manualną kopię plików,
+- wykonać zrzut bazy danych, jeżeli jest to możliwe,
+- sporządzić wykaz URL,
+- sporządzić wykaz plików,
+- opisać brak funkcji systemu, w szczególności brak eksportu, logów, metadanych albo wersjonowania,
+- sporządzić protokół braków,
+- wskazać dane, których nie da się przenieść automatycznie,
+- wykonać test odtworzenia przynajmniej na próbce typowych i trudnych przypadków.
+
+Jeżeli nawet wariant minimalny nie jest możliwy, należy udokumentować brak możliwości migracji, wskazać źródła sprawdzone i przekazać decyzję do właściciela systemu albo kierownictwa.
+
 ## Warunki wyjścia
 
 Migracja jest zakończona, gdy dane zostały zaimportowane albo zarchiwizowane, testy zakończyły się wynikiem pozytywnym, protokół został zatwierdzony, a system źródłowy ma określony dalszy status.
@@ -100,4 +117,4 @@ Ryzyko utraty kontekstu jest szczególnie istotne w BIP, CMS i systemach dziedzi
 
 ## Powiązania
 
-Procedura realizuje fazę migracji z [Modelu cyklu życia](./06-model-cyklu-zycia.md), korzysta ze statusów z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), wymaga decyzji z [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka wskazane w [Modelu ryzyk](./09-model-ryzyk.md).
+Procedura realizuje fazę migracji z [Modelu cyklu życia](./06-model-cyklu-zycia.md), korzysta ze statusów z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), wymaga decyzji z [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka wskazane w [Modelu ryzyk](./09-model-ryzyk.md). Do wykonania procedury należy stosować [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md), [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md), a przy wyłączaniu systemu także [Listę kontrolną wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md).

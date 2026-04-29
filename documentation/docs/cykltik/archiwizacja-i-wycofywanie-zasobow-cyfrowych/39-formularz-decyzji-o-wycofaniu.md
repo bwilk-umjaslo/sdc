@@ -34,11 +34,22 @@ Formularz należy wypełnić przed wykonaniem czynności technicznej. Wycofanie 
 | --- | --- |
 | Przedmiot |  |
 | Powód |  |
+| Status przed decyzją |  |
+| Status po decyzji |  |
+| Podstawa prawna |  |
 | Zakres danych |  |
 | Wpływ |  |
 | Migracja |  |
 | Archiwizacja |  |
+| Decyzja o dostępie |  |
 | Komunikacja |  |
+| Ryzyko wykonania |  |
+| Ryzyko braku działania |  |
+| Opinia archiwum |  |
+| Opinia IOD |  |
+| Opinia IT |  |
+| Osoba zatwierdzająca |  |
+| Data decyzji |  |
 | Decyzja |  |
 
 ### Opis pól
@@ -47,11 +58,22 @@ Formularz należy wypełnić przed wykonaniem czynności technicznej. Wycofanie 
 | --- | --- |
 | Przedmiot | Treść, zasób, zbiór danych, aplikacja, system albo usługa objęta wycofaniem. |
 | Powód | Nieaktualność, koniec projektu, zmiana systemu, ryzyko prawne, koniec wsparcia, zastąpienie nową wersją albo inna przesłanka. |
+| Status przed decyzją | Status zasobu, treści albo systemu przed decyzją. |
+| Status po decyzji | Status po wykonaniu decyzji, np. wycofany z publikacji, archiwalny, przeznaczony do migracji albo przekazany. |
+| Podstawa prawna | Przepis, JRWA, obowiązek publikacji, obowiązek retencji, decyzja kierownictwa albo inna podstawa. |
 | Zakres danych | Dane, dokumenty, metadane, załączniki, logi, multimedia, konta i relacje objęte decyzją. |
 | Wpływ | Wpływ na użytkowników, sprawy, informację publiczną, BIP, dostępność, dane osobowe i ciągłość działania. |
 | Migracja | Zakres migracji, system docelowy, format eksportu, test odtworzenia albo informacja, że migracja nie dotyczy. |
 | Archiwizacja | Sposób zachowania zasobu, kategoria, status, miejsce przechowywania, dostęp na wniosek albo przekazanie. |
+| Decyzja o dostępie | Publiczny, na wniosek, ograniczony, wewnętrzny albo brak publicznego dostępu z podaniem podstawy. |
 | Komunikacja | Komunikat dla użytkowników, przekierowania, kontakt, kanał zastępczy, termin i odpowiedzialny. |
+| Ryzyko wykonania | Ryzyka związane z wykonaniem decyzji, np. utrata dostępności, niepełna migracja albo spór o podstawę wycofania. |
+| Ryzyko braku działania | Skutki zaniechania, np. dalsza publikacja danych, utrata informacji, brak odtworzenia albo wyłączenie bez dostępu. |
+| Opinia archiwum | Stanowisko archiwum zakładowego, jeżeli wycofanie dotyczy dokumentacji albo retencji. |
+| Opinia IOD | Stanowisko IOD, jeżeli wycofanie dotyczy danych osobowych albo ryzyka ochrony danych. |
+| Opinia IT | Stanowisko IT, jeżeli wycofanie wymaga eksportu, migracji, kopii, testu albo zamknięcia systemu. |
+| Osoba zatwierdzająca | Osoba zatwierdzająca decyzję, jeżeli wymaga tego ryzyko, BIP, dane osobowe albo wycofanie systemu. |
+| Data decyzji | Data podjęcia albo zatwierdzenia decyzji. |
 | Decyzja | Wycofać, wycofać po spełnieniu warunków, utrzymać, poprawić, migrować, archiwizować, przekazać albo wstrzymać do czasu uzupełnienia braków. |
 
 ## Ryzyka

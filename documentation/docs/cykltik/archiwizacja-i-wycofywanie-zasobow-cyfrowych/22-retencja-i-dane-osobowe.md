@@ -66,6 +66,19 @@ Jeżeli dokumentacja musi być zachowana, RODO nie jest podstawą do jej dowolne
 
 IOD powinien uczestniczyć w decyzjach, gdy zasób zawiera znaczące dane osobowe, szczególne kategorie danych, dane dzieci, dane publikowane w BIP albo dane migrowane między systemami. Udział IOD powinien być dokumentowany w decyzji lub protokole.
 
+## Incydent archiwizacji a incydent ochrony danych
+
+Incydent archiwizacji dotyczy utraty, usunięcia, uszkodzenia, niepełnego odtworzenia albo braku metadanych zasobu. Może, ale nie musi, być jednocześnie incydentem ochrony danych osobowych.
+
+Incydent ochrony danych osobowych należy rozważyć odrębnie, jeżeli wystąpiła utrata danych osobowych, nieuprawniony dostęp do danych, ujawnienie danych osobie nieuprawnionej, brak kontroli nad danymi albo brak możliwości ustalenia, kto miał do nich dostęp.
+
+Jeżeli zdarzenie dotyczy zasobu z danymi osobowymi, podmiot powinien równolegle:
+
+- obsłużyć incydent archiwizacji zgodnie z procedurą dotyczącą nieprawidłowej archiwizacji albo usunięcia zasobu,
+- włączyć IOD,
+- ocenić, czy należy uruchomić odrębną procedurę naruszenia ochrony danych osobowych,
+- rozdzielić decyzję o dalszym przechowywaniu dokumentu od decyzji o publicznej publikacji danych.
+
 ## Wymagania
 
 Podmiot powinien:

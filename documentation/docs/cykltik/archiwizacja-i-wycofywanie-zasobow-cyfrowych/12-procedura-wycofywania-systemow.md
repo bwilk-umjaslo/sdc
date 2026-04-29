@@ -85,6 +85,23 @@ Należy poinformować użytkowników wewnętrznych i, gdy dotyczy, użytkownikó
 
 System można wyłączyć dopiero po potwierdzeniu migracji albo archiwizacji, testu odtworzenia, zabezpieczenia kopii, zamknięcia integracji, odebrania dokumentacji i zatwierdzenia protokołu.
 
+## Wariant minimalny (system ograniczony)
+
+Jeżeli system nie posiada eksportu danych, logów, metadanych albo wersjonowania, nie wolno uznać tego za zgodę na wyłączenie systemu bez zabezpieczenia zasobów. Należy zastosować wariant minimalny i udokumentować jego ograniczenia.
+
+W wariancie minimalnym należy:
+
+- wykonać manualną kopię plików,
+- wykonać zrzut bazy danych, jeżeli jest to możliwe,
+- sporządzić wykaz URL,
+- sporządzić wykaz plików,
+- opisać brak funkcji systemu, w szczególności brak eksportu, logów, metadanych albo wersjonowania,
+- sporządzić protokół braków,
+- wskazać, które dane mogą zostać odtworzone tylko częściowo,
+- uzyskać decyzję właściciela systemu albo kierownictwa o ryzyku resztkowym.
+
+Wariant minimalny nie zastępuje pełnej migracji. Służy ograniczeniu szkód, gdy stary system nie pozwala wykonać procesu w standardowy sposób.
+
 ## Warunki wyjścia
 
 System może zostać uznany za wycofany, gdy:
@@ -109,4 +126,4 @@ Ryzyka opisano w [Modelu ryzyk](./09-model-ryzyk.md). Przy wycofaniu systemu szc
 
 ## Powiązania
 
-Procedura rozwija fazę wycofania z [Modelu cyklu życia](./06-model-cyklu-zycia.md), wykorzystuje status przeznaczony do migracji z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), odpowiada na pytania z [Modelu decyzyjnego](./08-model-decyzyjny.md) i powinna być powiązana z przyszłym dokumentem dotyczącym kryteriów wycofania systemu.
+Procedura rozwija fazę wycofania z [Modelu cyklu życia](./06-model-cyklu-zycia.md), wykorzystuje status przeznaczony do migracji z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), odpowiada na pytania z [Modelu decyzyjnego](./08-model-decyzyjny.md) i powinna być stosowana z [Kryteriami wycofania systemu](./25-kryteria-wycofania-systemu.md). Do wykonania procedury należy stosować [Listę kontrolną wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md), [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md), [Rejestr wycofania systemów](./41-rejestr-wycofania-systemow.md) oraz [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).

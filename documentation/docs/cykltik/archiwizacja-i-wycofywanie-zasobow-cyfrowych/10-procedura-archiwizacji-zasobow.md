@@ -134,4 +134,4 @@ Ryzyka obejmują utratę wartości dowodowej, naruszenie prawa do informacji pub
 
 ## Powiązania
 
-Procedura rozwija [Model cyklu życia](./06-model-cyklu-zycia.md), korzysta z [Modelu decyzyjnego](./08-model-decyzyjny.md), stosuje statusy z [Modelu statusów zasobów](./07-model-statusow-zasobow.md) i ogranicza ryzyka opisane w [Modelu ryzyk](./09-model-ryzyk.md).
+Procedura rozwija [Model cyklu życia](./06-model-cyklu-zycia.md), korzysta z [Modelu decyzyjnego](./08-model-decyzyjny.md), stosuje statusy z [Modelu statusów zasobów](./07-model-statusow-zasobow.md) i ogranicza ryzyka opisane w [Modelu ryzyk](./09-model-ryzyk.md). Do wykonania procedury należy stosować [Listę kontrolną archiwizacji](./35-lista-kontrolna-archiwizacji.md), [Formularz decyzji archiwizacyjnej](./38-formularz-decyzji-archiwizacyjnej.md) oraz [Rejestr decyzji archiwizacyjnych](./40-rejestr-decyzji-archiwizacyjnych.md).

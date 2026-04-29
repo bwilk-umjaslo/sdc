@@ -68,6 +68,23 @@ System powinien rozróżniać role autora, redaktora, właściciela zasobu, admi
 
 CMS i BIP powinny umożliwiać oznaczanie treści jako archiwalnych, nieaktualnych albo dostępnych na wniosek. Oznaczenie powinno być widoczne dla użytkownika, a jego metadane powinny być dostępne dla administratora i właściciela zasobu.
 
+## Wariant minimalny (system ograniczony)
+
+Jeżeli istniejący system nie posiada eksportu danych, logów, metadanych albo wersjonowania, podmiot powinien wdrożyć minimalny sposób ograniczenia ryzyka do czasu modernizacji, migracji albo wycofania systemu.
+
+W wariancie minimalnym należy:
+
+- wykonać manualną kopię plików,
+- wykonać zrzut bazy danych, jeżeli jest to możliwe,
+- sporządzić wykaz URL,
+- sporządzić wykaz plików,
+- opisać brak funkcji systemu, w szczególności brak eksportu, logów, metadanych albo wersjonowania,
+- sporządzić protokół braków,
+- wskazać właściciela systemu i osobę odpowiedzialną za ręczne utrzymanie wykazu,
+- zaplanować naprawę, migrację albo wycofanie systemu.
+
+Wariant minimalny jest rozwiązaniem przejściowym. Nie powinien być traktowany jako docelowy standard dla nowego systemu albo zamówienia.
+
 ## Ryzyka i konsekwencje niespełnienia
 
 Brak spełnienia wymagań może oznaczać brak możliwości archiwizacji, brak migracji, utratę metadanych, brak historii publikacji, brak możliwości wykazania decyzji, zależność od wykonawcy i ryzyko naruszenia obowiązków prawnych.

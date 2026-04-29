@@ -107,4 +107,4 @@ Ryzyka obejmują naruszenie dostępu do informacji publicznej, utratę wartości
 
 ## Powiązania
 
-Procedura korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), statusów z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), pytań z [Modelu decyzyjnego](./08-model-decyzyjny.md) i kategorii ryzyk z [Modelu ryzyk](./09-model-ryzyk.md).
+Procedura korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), statusów z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), pytań z [Modelu decyzyjnego](./08-model-decyzyjny.md) i kategorii ryzyk z [Modelu ryzyk](./09-model-ryzyk.md). Do wykonania procedury należy stosować [Listę kontrolną wycofania treści](./36-lista-kontrolna-wycofania-tresci.md), [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md) oraz właściwy rejestr decyzji.

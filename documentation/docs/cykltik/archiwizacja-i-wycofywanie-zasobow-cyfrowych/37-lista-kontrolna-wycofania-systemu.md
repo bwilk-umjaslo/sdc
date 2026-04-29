@@ -49,6 +49,22 @@ System można wyłączyć dopiero po pozytywnej odpowiedzi na punkty blokujące 
 
 Punkty blokujące obejmują brak inwentaryzacji, brak eksportu, brak testu odtworzenia, brak decyzji o danych, brak komunikacji dla użytkowników i brak zatwierdzenia terminu wyłączenia.
 
+## Wariant minimalny (system ograniczony)
+
+Jeżeli system nie posiada eksportu danych, logów, metadanych albo wersjonowania, przed wyłączeniem należy potwierdzić wykonanie wariantu minimalnego.
+
+| Obszar | Pytanie | TAK | NIE | NIE DOTYCZY | Punkt blokujący |
+| --- | --- | --- | --- | --- | --- |
+| Kopia manualna | Czy wykonano manualną kopię plików? |  |  |  | Tak |
+| Baza danych | Czy wykonano zrzut bazy danych, jeżeli był możliwy? |  |  |  | Tak, jeżeli dotyczy |
+| URL | Czy sporządzono wykaz URL? |  |  |  | Tak |
+| Pliki | Czy sporządzono wykaz plików? |  |  |  | Tak |
+| Braki systemu | Czy opisano brak eksportu, logów, metadanych albo wersjonowania? |  |  |  | Tak |
+| Protokół braków | Czy sporządzono protokół braków? |  |  |  | Tak |
+| Ryzyko resztkowe | Czy właściciel systemu albo kierownictwo zatwierdziło ryzyko resztkowe? |  |  |  | Tak |
+
+Odpowiedź NIE przy punkcie blokującym oznacza, że system nie powinien zostać wyłączony bez decyzji kierownictwa i udokumentowania skutków.
+
 ## Ryzyka
 
 Wyłączenie systemu bez spełnienia punktów blokujących może spowodować utratę dokumentów, utratę metadanych, przerwanie usług, naruszenie obowiązków archiwalnych, naruszenie ochrony danych osobowych i zależność od wykonawcy.

@@ -36,10 +36,20 @@ Formularz należy wypełnić przed nadaniem statusu archiwalnego, przekazaniem z
 | Nazwa |  |
 | URL |  |
 | Właściciel |  |
+| Status przed decyzją |  |
+| Status po decyzji |  |
 | Kategoria |  |
+| Podstawa prawna |  |
 | Decyzja |  |
+| Decyzja o dostępie |  |
 | Dostęp |  |
-| Data |  |
+| Ryzyko wykonania |  |
+| Ryzyko braku działania |  |
+| Opinia archiwum |  |
+| Opinia IOD |  |
+| Opinia IT |  |
+| Osoba zatwierdzająca |  |
+| Data decyzji |  |
 | Odpowiedzialny |  |
 | Uwagi |  |
 
@@ -51,10 +61,20 @@ Formularz należy wypełnić przed nadaniem statusu archiwalnego, przekazaniem z
 | Nazwa | Tytuł zasobu albo krótki opis pozwalający go rozpoznać. |
 | URL | Adres publiczny albo wewnętrzna lokalizacja, jeżeli zasób nie był publiczny. |
 | Właściciel | Komórka albo osoba odpowiedzialna za treść, dane albo dokument. |
+| Status przed decyzją | Status zasobu przed decyzją, zgodny z modelem statusów. |
+| Status po decyzji | Status zasobu po wykonaniu decyzji. |
 | Kategoria | Kategoria archiwalna, klasa JRWA albo informacja, że kwalifikacja nie dotyczy. |
+| Podstawa prawna | Przepis, JRWA, decyzja, obowiązek publikacji, obowiązek retencji albo inna podstawa decyzji. |
 | Decyzja | Archiwizować publicznie, archiwizować z dostępem na wniosek, przekazać, poprawić przed archiwizacją, przeznaczyć do dalszej kwalifikacji albo inna decyzja. |
+| Decyzja o dostępie | Publiczny, na wniosek, ograniczony, wewnętrzny albo brak publicznego dostępu z podaniem podstawy. |
 | Dostęp | Publiczny, archiwalny publiczny, na wniosek, ograniczony, wewnętrzny albo brak publicznego dostępu z podaniem podstawy. |
-| Data | Data podjęcia decyzji. |
+| Ryzyko wykonania | Ryzyka związane z wykonaniem decyzji, np. utrata kontekstu, ograniczenie dostępu, ryzyko techniczne. |
+| Ryzyko braku działania | Skutki zaniechania, np. dalsza publikacja danych, utrata informacji publicznej albo brak możliwości odtworzenia decyzji. |
+| Opinia archiwum | Stanowisko archiwum zakładowego, jeżeli zasób jest dokumentacją albo wymaga kwalifikacji. |
+| Opinia IOD | Stanowisko IOD, jeżeli zasób zawiera dane osobowe albo rodzi ryzyko ochrony danych. |
+| Opinia IT | Stanowisko IT, jeżeli decyzja wymaga eksportu, zabezpieczenia, migracji albo odtworzenia. |
+| Osoba zatwierdzająca | Osoba zatwierdzająca decyzję, jeżeli wymaga tego ryzyko albo procedura. |
+| Data decyzji | Data podjęcia albo zatwierdzenia decyzji. |
 | Odpowiedzialny | Osoba odpowiedzialna za wykonanie decyzji. |
 | Uwagi | Ryzyka, warunki, opinie IOD, archiwum zakładowego, IT, koordynatora dostępności albo obsługi prawnej. |
 

@@ -103,3 +103,16 @@ Archiwizacja cyfrowa znajduje siÄ™ na styku kilku porzÄ…dkĂłw prawnych: 
 
 NajwaĹĽniejszy wniosek jest praktyczny: przed wycofaniem treĹ›ci, migracjÄ… danych albo zamkniÄ™ciem systemu podmiot powinien ustaliÄ‡ status zasobu, jego kategoriÄ™ archiwalnÄ…, metadane, kontekst, wymogi dostÄ™pnoĹ›ci, podstawÄ™ publikacji, obowiÄ…zki retencyjne i sposĂłb dalszego dostÄ™pu.
 
+## Powiązania
+
+Podstawy prawne należy stosować razem z:
+
+- [Modelem cyklu życia](./06-model-cyklu-zycia.md),
+- [Modelem statusów zasobów](./07-model-statusow-zasobow.md),
+- [Modelem decyzyjnym](./08-model-decyzyjny.md),
+- [Modelem ryzyk](./09-model-ryzyk.md),
+- [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md),
+- [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md),
+- [Procedurą wycofywania systemów](./12-procedura-wycofywania-systemow.md),
+- [Procedurą migracji danych](./13-procedura-migracji-danych.md),
+- [Procedurą postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md).

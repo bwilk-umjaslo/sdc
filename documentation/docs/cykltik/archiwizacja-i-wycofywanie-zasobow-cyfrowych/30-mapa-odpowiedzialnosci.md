@@ -60,6 +60,20 @@ Za prawidłowość działania prawnie odpowiada podmiot publiczny reprezentowany
 
 Decyzje archiwizacyjne powinny być dokumentowane w formularzu albo rejestrze. Minimalnie należy wskazać zasób, właściciela, status przed decyzją, status po decyzji, podstawę, ocenę ryzyk, datę i osobę odpowiedzialną.
 
+## Kryteria eskalacji
+
+Sprawę należy eskalować do kierownictwa, gdy:
+
+- dotyczy BIP,
+- dotyczy danych osobowych,
+- brak możliwości odtworzenia zasobu,
+- system został wyłączony,
+- brak jednoznacznej odpowiedzialności,
+- decyzja wymaga zaakceptowania ryzyka resztkowego,
+- występuje spór między właścicielem zasobu, IT, archiwum zakładowym albo IOD.
+
+Eskalacja nie zastępuje analizy merytorycznej, prawnej, archiwalnej ani technicznej. Jej celem jest wskazanie osoby uprawnionej do zatwierdzenia decyzji, wyznaczenia właściciela tymczasowego albo przyjęcia ryzyka resztkowego.
+
 ## Ryzyka
 
 Najważniejsze ryzyka wynikające z braku mapy odpowiedzialności to:

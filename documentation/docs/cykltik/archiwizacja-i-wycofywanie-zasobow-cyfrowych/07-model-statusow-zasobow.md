@@ -50,3 +50,17 @@ Status nie zastÄ™puje decyzji o wycofaniu. JeĹĽeli status zmienia siÄ™ n
 
 Status powinien byÄ‡ widoczny dla osĂłb zarzÄ…dzajÄ…cych zasobem. W przypadku treĹ›ci publicznych uĹĽytkownik powinien otrzymaÄ‡ zrozumiaĹ‚e oznaczenie, jeĹĽeli treĹ›Ä‡ jest archiwalna, nieaktualna albo dostÄ™pna tylko na wniosek.
 
+## Powiązania
+
+Model statusów należy stosować razem z:
+
+- [Modelem cyklu życia](./06-model-cyklu-zycia.md),
+- [Modelem decyzyjnym](./08-model-decyzyjny.md),
+- [Modelem ryzyk](./09-model-ryzyk.md),
+- [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md),
+- [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md),
+- [Procedurą wycofywania systemów](./12-procedura-wycofywania-systemow.md),
+- [Procedurą migracji danych](./13-procedura-migracji-danych.md),
+- [Standardem metadanych](./16-standard-metadanych.md),
+- [Dokumentowaniem procesu wycofania](./26-dokumentowanie-procesu-wycofania.md),
+- [Procedurą postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md).

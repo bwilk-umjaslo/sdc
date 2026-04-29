@@ -29,6 +29,13 @@ Celem materiaĹ‚u jest wprowadzenie wspĂłlnego modelu postÄ™powania dla w
 
 MateriaĹ‚ nie zastÄ™puje instrukcji kancelaryjnej, JRWA, instrukcji archiwalnej ani decyzji wĹ‚aĹ›ciwego archiwum paĹ„stwowego. PorzÄ…dkuje natomiast zarzÄ…dzanie zasobami cyfrowymi na styku publikacji, utrzymania, dostÄ™pnoĹ›ci, archiwizacji i wycofania.
 
+## Sytuacje awaryjne – od czego zacząć
+
+- **Usunąłem zasób / zasób zniknął** → [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md).
+- **Nie wiem co zrobić – incydent** → [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md).
+- **Chcę wycofać treść** → [Procedura wycofywania treści](./11-procedura-wycofywania-tresci.md).
+- **Wyłączamy system** → [Procedura wycofywania systemów](./12-procedura-wycofywania-systemow.md).
+
 ## Zalecenie i kontekst
 
 - [Zalecenie](./01-zalecenie.md) - gĹ‚Ăłwna treĹ›Ä‡ zalecenia, rekomendacje, podstawy prawne i historia wersji.
@@ -44,7 +51,7 @@ MateriaĹ‚ nie zastÄ™puje instrukcji kancelaryjnej, JRWA, instrukcji archiw
 - [Model decyzyjny](./08-model-decyzyjny.md) - pytania i decyzje wspierajÄ…ce kwalifikacjÄ™ zasobĂłw.
 - [Model ryzyk](./09-model-ryzyk.md) - ryzyka prawne, archiwalne, dostÄ™pnoĹ›ciowe, technologiczne i organizacyjne.
 
-## Planowane elementy wykonawcze
+## Elementy wykonawcze
 
 Kolejne czÄ™Ĺ›ci materiaĹ‚u rozwijajÄ… procedury, standardy i narzÄ™dzia wdroĹĽeniowe. ObejmujÄ… w szczegĂłlnoĹ›ci procedurÄ™ archiwizacji zasobĂłw, procedurÄ™ wycofywania treĹ›ci, procedurÄ™ wycofywania systemĂłw, procedurÄ™ migracji danych, kwalifikacjÄ™ archiwalnÄ…, standard metadanych, standard formatĂłw archiwalnych, standard integralnoĹ›ci i autentycznoĹ›ci, dostÄ™p do treĹ›ci archiwalnych, dostÄ™p alternatywny, listy kontrolne, formularze decyzji, rejestry i schematy procesĂłw.
 
@@ -82,6 +89,8 @@ Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logik
 - [Przypadki szczególne](./32-przypadki-szczegolne.md)
 - [Konflikty prawne i decyzyjne](./33-konflikty-prawne-i-decyzyjne.md)
 - [Najczęstsze błędy](./34-najczestsze-bledy.md)
+- [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md)
+- [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md)
 
 ## Narzędzia i wzory
 
@@ -109,4 +118,3 @@ Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logik
 
 - [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md) - sposób postępowania po stwierdzeniu usunięcia, utraty lub nieprawidłowej archiwizacji zasobu cyfrowego.
 - [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md) - narzędzie do dokumentowania ustaleń, decyzji i działań naprawczych w przypadku incydentu archiwizacji.
-
