@@ -235,6 +235,8 @@ Po zakończeniu incydentu należy:
 
 Działania systemowe należy powiązać z [Wymaganiami dla systemów](./24-wymagania-dla-systemow.md) oraz wnioskami z [Najczęstszych błędów](./34-najczestsze-bledy.md).
 
+Obsługa incydentu powinna być dokumentowana z użyciem [Listy kontrolnej obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md), jeżeli charakter zdarzenia wymaga potwierdzenia ustaleń, decyzji i działań naprawczych.
+
 ## Warunki wyjścia
 
 Procedura może zostać zakończona, gdy:
@@ -271,3 +273,4 @@ Najważniejsze ryzyka to:
 - [Wymagania dla systemów](./24-wymagania-dla-systemow.md)
 - [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md)
 - [Najczęstsze błędy](./34-najczestsze-bledy.md)
+- [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md)

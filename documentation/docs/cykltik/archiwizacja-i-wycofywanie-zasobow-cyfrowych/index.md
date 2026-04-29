@@ -50,3 +50,8 @@ Kolejne czÄ™Ĺ›ci materiaĹ‚u rozwijajÄ… procedury, standardy i narzÄ
 
 Te elementy powinny byÄ‡ stosowane Ĺ‚Ä…cznie. Modele wskazujÄ… logikÄ™ decyzji, procedury opisujÄ… przebieg dziaĹ‚aĹ„, standardy okreĹ›lajÄ… minimalnÄ… jakoĹ›Ä‡ zasobu, a narzÄ™dzia pomagajÄ… udokumentowaÄ‡ decyzje.
 
+## Narzędzia i procedury incydentowe
+
+- [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md) - sposób postępowania po stwierdzeniu usunięcia, utraty lub nieprawidłowej archiwizacji zasobu cyfrowego.
+- [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md) - narzędzie do dokumentowania ustaleń, decyzji i działań naprawczych w przypadku incydentu archiwizacji.
+

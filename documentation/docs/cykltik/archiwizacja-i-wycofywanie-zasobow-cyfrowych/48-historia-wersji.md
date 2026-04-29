@@ -28,6 +28,7 @@ Aktualizacja powinna wskazywać wersję, datę i zwięzły opis zakresu zmian. J
 
 | Wersja | Data | Opis zmian |
 | --- | --- | --- |
+| 0.3 | 29 kwietnia 2026 r. | Dodano listę kontrolną obsługi incydentu archiwizacji zasobów cyfrowych oraz powiązania z procedurą incydentową |
 | 0.2 | 29 kwietnia 2026 r. | Dodano procedurę postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu |
 | 0.1 | 29 kwietnia 2026 r. | Wersja robocza kompletnego zestawu dokumentów dla procedury archiwizacji i wycofywania zasobów cyfrowych |
 
