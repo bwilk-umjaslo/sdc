@@ -1,14 +1,14 @@
----
+﻿---
 id: 23-integracja-z-ezd
 title: Integracja z EZD
 description: Zasady powiązania publikacji, zasobów cyfrowych i decyzji archiwizacyjnych z systemem EZD.
-sidebar_label: Integracja z EZD
-sidebar_position: 23
+sidebar_label: Materiał: EZD
+sidebar_position: 53
 keywords: [EZD, dokument sprawy, metadane, publikacja, archiwum zakładowe]
 tags: [cykl-zycia-tik, EZD]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -77,4 +77,7 @@ Najważniejsze ryzyko to powstanie dwóch obiegów dokumentów: formalnego w EZD
 
 ## Powiązania
 
-Dokument rozwija [Model cyklu życia](./06-model-cyklu-zycia.md) dla dokumentów sprawy, korzysta z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), odpowiada na pytania [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka z [Modelu ryzyk](./09-model-ryzyk.md). Należy go stosować razem z [Procedurą kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md), [Standardem metadanych](./16-standard-metadanych.md) i [Archiwizacją w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md).
+Dokument rozwija [Załącznik 1. Model cyklu życia zasobów cyfrowych](./06-model-cyklu-zycia.md) dla dokumentów sprawy, korzysta z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), odpowiada na pytania [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka z [Modelu ryzyk](./09-model-ryzyk.md). Należy go stosować razem z [Procedurą kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md), [Standardem metadanych](./16-standard-metadanych.md) i [Archiwizacją w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md).
+
+
+

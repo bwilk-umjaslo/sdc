@@ -1,83 +1,99 @@
----
+﻿---
 id: 27-modele-wdrozeniowe
-title: Modele wdrożeniowe
-description: Modele wdrożenia procedury archiwizacji i wycofywania zasobów cyfrowych w różnych skalach organizacji.
-sidebar_label: Modele wdrożeniowe
-sidebar_position: 27
-keywords: [model wdrożeniowy, mały podmiot, duży podmiot, archiwizacja, cykl życia TIK]
-tags: [cykl-zycia-tik, wdrożenie]
+title: Załącznik 5. Minimalny model wdrożeniowy dla podmiotów publicznych
+description: Normatywny model proporcjonalnego wdrożenia zarządzania końcem cyklu życia zasobów cyfrowych dla małych i większych podmiotów publicznych.
+sidebar_label: Zał. 5 Model wdrożeniowy
+sidebar_position: 14
+keywords: [model wdrożeniowy, mały podmiot, duży podmiot, proporcjonalność]
+tags: [cykl-zycia-tik, załącznik]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Modele wdrożeniowe
+# Załącznik 5. Minimalny model wdrożeniowy dla podmiotów publicznych
 
-## Cel
+## Zakres załącznika
 
-Celem dokumentu jest wskazanie sposobów wdrożenia procedury archiwizacji i wycofywania zasobów cyfrowych w podmiotach o różnej skali. Wymagania prawne nie są obniżane dla małych podmiotów, ale sposób organizacji procesu może być proporcjonalny do zasobów, liczby systemów i poziomu dojrzałości cyfrowej.
+Załącznik określa proporcjonalny model wdrożenia zalecenia w podmiotach publicznych. Łączy treści z wcześniejszych materiałów dotyczących wariantów wdrożenia, modelu dla małych podmiotów i modelu dla dużych podmiotów.
 
-## Zakres
+## Zasada proporcjonalności wdrożenia
 
-Modele dotyczą małych jednostek bez EZD, jednostek z prostym CMS i BIP, średnich podmiotów z częściową cyfryzacją oraz dużych organizacji z EZD, archiwum zakładowym i wieloma systemami dziedzinowymi.
+Wymagania dotyczące odpowiedzialności, dostępności cyfrowej, informacji publicznej, dokumentacji i ochrony danych nie znikają w małych podmiotach. Różnić może się sposób organizacji: liczba osób, narzędzia, poziom automatyzacji, częstotliwość raportowania i szczegółowość rejestrów.
 
-## Zasady
+## Minimalny zestaw decyzji
 
-Każdy model powinien zapewniać co najmniej statusy zasobów, decyzje, metadane, dokumentowanie, ocenę dostępności, ocenę RODO, powiązanie z JRWA i możliwość archiwizacji. Różnice dotyczą narzędzi, liczby ról, automatyzacji i zakresu raportowania.
+Każdy podmiot powinien umieć udokumentować decyzje dotyczące:
 
-## Poziom minimalny
+- utrzymania zasobu jako aktywnego;
+- oznaczenia zasobu jako archiwalnego;
+- zapewnienia dostępnej wersji albo dostępu alternatywnego;
+- wycofania treści z publikacji;
+- migracji danych albo dokumentów;
+- wyłączenia systemu;
+- przekazania dokumentacji do archiwum;
+- brakowania, jeżeli przepisy i kategoria dokumentacji na to pozwalają.
 
-Poziom minimalny jest przeznaczony dla małych podmiotów albo jednostek o niewielkiej liczbie zasobów. Obejmuje:
+## Minimalny zestaw rejestrów
 
-- prosty rejestr decyzji,
-- podstawowe metadane,
-- wskazanie właściciela zasobu,
-- okresowy przegląd BIP i WWW,
-- decyzję przed wycofaniem treści,
-- konsultację archiwalną w sprawach wątpliwych,
-- podstawowy opis dostępu alternatywnego.
+Podmiot powinien prowadzić co najmniej prostą ewidencję, która zawiera nazwę zasobu, lokalizację, właściciela, status, datę decyzji, powód decyzji, sposób dalszego dostępu, informację o dostępności, informację o danych osobowych i osobę odpowiedzialną za wykonanie.
 
-Model minimalny opisano szerzej w [Modelu dla małych podmiotów](./28-model-dla-malych-podmiotow.md).
+W mniejszych podmiotach może to być jeden rejestr decyzji. W większych podmiotach powinien być powiązany z rejestrem zasobów, CMS, BIP, EZD, systemami dziedzinowymi albo rejestrem systemów.
 
-## Poziom standardowy
+## Model uproszczony dla małych podmiotów
 
-Poziom standardowy jest właściwy dla podmiotów z regularną publikacją w BIP i WWW, kilkoma systemami oraz podstawową strukturą odpowiedzialności. Obejmuje:
+Model uproszczony jest właściwy, gdy podmiot ma niewiele systemów, prosty BIP lub CMS, ograniczoną liczbę publikacji i łączone role. Powinien obejmować:
 
-- formalny rejestr zasobów i decyzji,
-- statusy w CMS albo rejestrze,
-- procedurę wycofywania treści,
-- procedurę migracji danych,
-- udział IOD i archiwum zakładowego,
-- wymagania dla wykonawców systemów,
-- okresowe raportowanie do kierownictwa.
+- wyznaczenie jednej osoby koordynującej przeglądy zasobów;
+- prosty rejestr decyzji prowadzony w arkuszu albo systemie kancelaryjnym;
+- okresowy przegląd BIP, WWW i najważniejszych repozytoriów;
+- decyzję właściciela zasobu przed usunięciem lub ukryciem treści;
+- konsultację z koordynatorem dostępności przy treściach publicznych;
+- konsultację z IOD przy danych osobowych;
+- konsultację z osobą odpowiedzialną za dokumentację przy wątpliwościach archiwalnych;
+- prosty opis dostępu alternatywnego dla treści historycznych.
 
-## Poziom zaawansowany
+Model uproszczony nie powinien prowadzić do usuwania treści bez decyzji ani do wyłączania systemów bez zachowania danych.
 
-Poziom zaawansowany jest przeznaczony dla dużych podmiotów z EZD, archiwum zakładowym, wieloma systemami, zespołami IT i rozbudowaną publikacją. Obejmuje:
+## Model standardowy
 
-- centralny rejestr zasobów,
-- integrację CMS, BIP, EZD i repozytoriów,
-- automatyczne metadane i statusy,
-- zarządzanie portfelem systemów,
-- plan migracji dla systemów wycofywanych,
-- audyty i raportowanie,
-- komitet albo zespół wycofania systemu.
+Model standardowy jest właściwy dla podmiotów z regularną publikacją, kilkoma systemami i wydzielonymi rolami. Powinien obejmować:
 
-Model zaawansowany opisano w [Modelu dla dużych podmiotów](./29-model-dla-duzych-podmiotow.md).
+- rejestr zasobów albo rejestr decyzji powiązany z BIP, CMS lub EZD;
+- statusy zasobów w narzędziu publikacyjnym albo ewidencji;
+- opis procesu archiwizacji, migracji i wycofania;
+- wzory decyzji i listy kontrolne;
+- udział koordynatora dostępności, IOD, IT i archiwum zakładowego;
+- wymagania dla wykonawców systemów dotyczące eksportu, metadanych i oznaczania archiwum;
+- cykliczny przegląd zasobów wysokiego ryzyka.
 
-## Różnice organizacyjne
+## Model rozszerzony dla dużych podmiotów
 
-Mały podmiot może łączyć role, ale nie powinien rezygnować z decyzji i dokumentowania. Średni podmiot powinien rozdzielić właściciela zasobu, redaktora i administratora systemu. Duży podmiot powinien wyznaczyć właścicieli systemów, właścicieli danych, archiwum zakładowe, IOD, koordynatora dostępności i zespół migracyjny.
+Model rozszerzony jest właściwy dla podmiotów z wieloma systemami, archiwum zakładowym, EZD, licznymi kanałami publikacji i zespołami IT. Powinien obejmować:
 
-## Różnice systemowe
+- centralny rejestr zasobów i systemów;
+- właścicieli zasobów, właścicieli danych i właścicieli systemów;
+- plan migracji i wycofywania systemów;
+- standardy metadanych, statusów i oznaczania treści archiwalnych;
+- proces odbioru migracji z testami dostępności i integralności;
+- raportowanie do kierownictwa;
+- audyty zasobów archiwalnych pozostających w publicznym obiegu;
+- wymagania zakupowe dla systemów i usług utrzymaniowych.
 
-W modelu minimalnym dopuszczalny jest rejestr prowadzony poza CMS, jeżeli jest spójny i aktualny. W modelu standardowym statusy i metadane powinny być obsługiwane w systemach. W modelu zaawansowanym systemy powinny wymieniać identyfikatory, metadane i informacje o statusach.
+## Minimalne odpowiedzialności
 
-## Ryzyka
+Niezależnie od modelu podmiot powinien zapewnić, że:
 
-Ryzykiem modelu minimalnego jest zależność od pojedynczych osób. Ryzykiem modelu standardowego jest niespójność systemów. Ryzykiem modelu zaawansowanego jest złożoność, rozproszenie odpowiedzialności i trudność w utrzymaniu jednolitych zasad.
+- właściciel zasobu podejmuje albo rekomenduje decyzję;
+- koordynator dostępności ocenia skutki dla użytkowników i dostępności cyfrowej;
+- IOD ocenia ryzyka danych osobowych;
+- osoba odpowiedzialna za dokumentację ocenia powiązanie z JRWA, instrukcją kancelaryjną i archiwalną;
+- IT odpowiada za wykonanie migracji, eksportu, zabezpieczenia i wycofania systemu;
+- kierownictwo rozstrzyga decyzje wysokiego ryzyka.
 
-## Powiązania
+## Powiązane materiały pomocnicze
 
-Modele wdrożeniowe opierają się na [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu statusów zasobów](./07-model-statusow-zasobow.md), [Modelu decyzyjnym](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Wymaganiach dla systemów](./24-wymagania-dla-systemow.md) i [Dokumentowaniu procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+Szczegółowe warianty pozostają w materiałach: [Model dla małych podmiotów](./28-model-dla-malych-podmiotow.md), [Model dla dużych podmiotów](./29-model-dla-duzych-podmiotow.md), [Mapa odpowiedzialności](./30-mapa-odpowiedzialnosci.md), [Formularz decyzji archiwizacyjnej](./38-formularz-decyzji-archiwizacyjnej.md), [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md) i [Rejestr decyzji archiwizacyjnych](./40-rejestr-decyzji-archiwizacyjnych.md).
+
+

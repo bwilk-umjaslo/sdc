@@ -1,14 +1,14 @@
----
+﻿---
 id: 42-wzor-opisu-tresci-archiwalnej
 title: Wzór opisu treści archiwalnej
 description: Wzory komunikatów informujących użytkownika o statusie treści archiwalnej albo historycznej.
-sidebar_label: Opis archiwalny
-sidebar_position: 42
+sidebar_label: Operacyjne: opis archiwalny
+sidebar_position: 87
 keywords: [wzór, treść archiwalna, treść nieaktualna, dokument historyczny, komunikat]
 tags: [cykl-zycia-tik, wzór]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -67,3 +67,6 @@ Nie należy używać komunikatów niejednoznacznych, takich jak wyłącznie "arc
 ## Powiązania
 
 Wzory należy stosować z [Modelem statusów zasobów](./07-model-statusow-zasobow.md), [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Standardem dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md), [Alternatywnym dostępem do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md), [Archiwizacją w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md) i [Listą kontrolną wycofania treści](./36-lista-kontrolna-wycofania-tresci.md).
+
+
+

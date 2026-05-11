@@ -2,13 +2,13 @@
 id: 09-model-ryzyk-archiwizacji
 title: Model ryzyk archiwizacji i wycofywania zasobów cyfrowych
 description: Kategorie ryzyk oraz działania ograniczające przy archiwizacji, migracji i wycofywaniu zasobów cyfrowych.
-sidebar_label: Model ryzyk
-sidebar_position: 9
+sidebar_label: Materiał: ryzyka
+sidebar_position: 42
 keywords: [ryzyka, archiwizacja, migracja danych, wycofywanie systemów, dane osobowe]
 tags: [cykl-zycia-tik, ryzyka]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 # Model ryzyk archiwizacji i wycofywania zasobów cyfrowych
@@ -142,4 +142,7 @@ Celem modelu jest wskazanie ryzyk, ktĂłre naleĹĽy oceniÄ‡ przed archiwiza
 Procedura archiwizacji i wycofywania zasobĂłw cyfrowych jest narzÄ™dziem zarzÄ…dzania ryzykiem. Pozwala zapobiegaÄ‡ utracie dokumentacji, odcinaniu uĹĽytkownikĂłw od informacji, bĹ‚Ä™dnemu brakowaniu, niekontrolowanej migracji, naruszeniom danych osobowych i zaleĹĽnoĹ›ci od systemĂłw, ktĂłrych nie moĹĽna juĹĽ utrzymywaÄ‡.
 
 Podmiot publiczny powinien traktowaÄ‡ kaĹĽdy przeglÄ…d, migracjÄ™ i wycofanie jako decyzjÄ™ wymagajÄ…cÄ… metadanych, odpowiedzialnoĹ›ci, oceny ryzyk i dokumentacji. Tylko wtedy koniec ĹĽycia zasobu cyfrowego jest elementem zarzÄ…dzania TIK, a nie przypadkowym skutkiem zmian technicznych.
+
+
+
 

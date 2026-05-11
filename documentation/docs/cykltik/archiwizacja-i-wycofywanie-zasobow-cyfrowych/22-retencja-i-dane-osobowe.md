@@ -1,14 +1,14 @@
----
+﻿---
 id: 22-retencja-i-dane-osobowe
 title: Retencja i dane osobowe
 description: Zasady łączenia retencji, archiwizacji i ochrony danych osobowych w zasobach cyfrowych.
-sidebar_label: Retencja i dane
-sidebar_position: 22
+sidebar_label: Materiał: retencja i dane
+sidebar_position: 52
 keywords: [retencja, dane osobowe, RODO, anonimizacja, ograniczenie dostępu]
 tags: [cykl-zycia-tik, dane-osobowe]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -98,3 +98,6 @@ Ryzyka obejmują zbyt długą publiczną publikację danych, usunięcie dokument
 ## Powiązania
 
 Dokument rozwija ryzyka ochrony danych z [Modelu ryzyk](./09-model-ryzyk.md), korzysta z pytań [Modelu decyzyjnego](./08-model-decyzyjny.md) i powinien być stosowany razem z [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurą migracji danych](./13-procedura-migracji-danych.md), [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Modelem cyklu życia](./06-model-cyklu-zycia.md) i [Modelem statusów zasobów](./07-model-statusow-zasobow.md).
+
+
+

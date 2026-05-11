@@ -1,14 +1,14 @@
----
+﻿---
 id: 25-kryteria-wycofania-systemu
 title: Kryteria wycofania systemu
 description: Kryteria oceny, czy system teleinformatyczny może zostać wycofany z eksploatacji.
-sidebar_label: Kryteria wycofania
-sidebar_position: 25
+sidebar_label: Materiał: kryteria systemu
+sidebar_position: 55
 keywords: [wycofanie systemu, koniec wsparcia, bezpieczeństwo, dostępność, migracja]
 tags: [cykl-zycia-tik, systemy]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -77,3 +77,6 @@ Najważniejsze ryzyka to wyłączenie systemu bez migracji, utrata danych, utrat
 ## Powiązania
 
 Kryteria należy stosować z [Wymaganiami dla systemów](./24-wymagania-dla-systemow.md), [Procedurą wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedurą migracji danych](./13-procedura-migracji-danych.md), [Modelem cyklu życia](./06-model-cyklu-zycia.md), [Modelem statusów zasobów](./07-model-statusow-zasobow.md), [Modelem decyzyjnym](./08-model-decyzyjny.md) i [Modelem ryzyk](./09-model-ryzyk.md).
+
+
+

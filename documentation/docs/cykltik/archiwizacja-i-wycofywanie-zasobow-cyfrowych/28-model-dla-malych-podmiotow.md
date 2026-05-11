@@ -1,26 +1,26 @@
----
+﻿---
 id: 28-model-dla-malych-podmiotow
-title: Model dla małych podmiotów
-description: Praktyczny model wdrożenia archiwizacji i wycofywania zasobów cyfrowych w małych podmiotach.
-sidebar_label: Małe podmioty
-sidebar_position: 28
+title: Wariant minimalny dla małych podmiotów
+description: Praktyczny wariant wdrożenia archiwizacji i wycofywania zasobów cyfrowych w małych podmiotach.
+sidebar_label: Materiał: małe podmioty
+sidebar_position: 57
 keywords: [mały podmiot, prosty CMS, BIP, rejestr, metadane]
 tags: [cykl-zycia-tik, wdrożenie]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Model dla małych podmiotów
+# Wariant minimalny dla małych podmiotów
 
 ## Cel
 
-Celem modelu jest pokazanie, jak mały podmiot może spełnić wymagania dotyczące archiwizacji i wycofywania zasobów cyfrowych przy ograniczonych zasobach kadrowych, prostym CMS, BIP i braku EZD. Model upraszcza organizację, ale nie obniża wymagań prawnych.
+Celem wariantu jest pokazanie, jak mały podmiot może spełnić wymagania dotyczące archiwizacji i wycofywania zasobów cyfrowych przy ograniczonych zasobach kadrowych, prostym CMS, BIP i braku EZD. Wariant upraszcza organizację, ale nie obniża wymagań prawnych.
 
 ## Zakres
 
-Model dotyczy małych jednostek, które prowadzą BIP i prostą stronę WWW, mają ograniczoną liczbę systemów, nie posiadają rozbudowanego archiwum zakładowego albo korzystają ze wsparcia jednostki nadrzędnej.
+Wariant dotyczy małych jednostek, które prowadzą BIP i prostą stronę WWW, mają ograniczoną liczbę systemów, nie posiadają rozbudowanego archiwum zakładowego albo korzystają ze wsparcia jednostki nadrzędnej.
 
 ## Zasady
 
@@ -78,4 +78,7 @@ Ryzyka małych podmiotów to zależność od jednej osoby, brak dokumentacji dec
 
 ## Powiązania
 
-Model wdraża [Modele wdrożeniowe](./27-modele-wdrozeniowe.md) na poziomie minimalnym. Korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu statusów zasobów](./07-model-statusow-zasobow.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Procedury wycofywania treści](./11-procedura-wycofywania-tresci.md) i [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+Wariant wdraża [Załącznik 5. Minimalny model wdrożeniowy dla podmiotów publicznych](./27-modele-wdrozeniowe.md) na poziomie minimalnym. Korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu statusów zasobów](./07-model-statusow-zasobow.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Procedury wycofywania treści](./11-procedura-wycofywania-tresci.md) i [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

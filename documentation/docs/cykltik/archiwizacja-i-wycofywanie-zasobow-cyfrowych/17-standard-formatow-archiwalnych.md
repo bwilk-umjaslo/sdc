@@ -1,14 +1,14 @@
----
+﻿---
 id: 17-standard-formatow-archiwalnych
 title: Standard formatów archiwalnych
 description: Standard doboru formatów trwałych i zasad konwersji zasobów cyfrowych.
-sidebar_label: Formaty archiwalne
-sidebar_position: 17
+sidebar_label: Materiał: formaty
+sidebar_position: 48
 keywords: [formaty archiwalne, PDF/A, XML, CSV, ODF, konwersja]
 tags: [cykl-zycia-tik, standard]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -86,3 +86,6 @@ Niewłaściwy format może uniemożliwić odczyt w czasie, migrację, dostępno�
 ## Powiązania
 
 Standard należy stosować z [Procedurą migracji danych](./13-procedura-migracji-danych.md), [Procedurą przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md), [Standardem metadanych](./16-standard-metadanych.md) i [Standardem integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md). Dobór formatu powinien wynikać z fazy [Modelu cyklu życia](./06-model-cyklu-zycia.md), statusu z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), decyzji z [Modelu decyzyjnego](./08-model-decyzyjny.md) i oceny [Modelu ryzyk](./09-model-ryzyk.md).
+
+
+

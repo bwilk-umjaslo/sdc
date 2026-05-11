@@ -1,14 +1,14 @@
----
+﻿---
 id: 16-standard-metadanych
 title: Standard metadanych
 description: Standard minimalnych i rozszerzonych metadanych wymaganych dla zasobów cyfrowych.
-sidebar_label: Standard metadanych
-sidebar_position: 16
+sidebar_label: Materiał: metadane
+sidebar_position: 47
 keywords: [metadane, identyfikator, status, kategoria archiwalna, powiązanie ze sprawą]
 tags: [cykl-zycia-tik, standard]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -98,3 +98,6 @@ Zasób bez metadanych nie powinien być usuwany. Powinien otrzymać status do pr
 ## Powiązania
 
 Standard wspiera [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę migracji danych](./13-procedura-migracji-danych.md), [Procedurę kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md) i [Procedurę przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md). Metadane są wymagane w każdej fazie [Modelu cyklu życia](./06-model-cyklu-zycia.md), opisują status z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), umożliwiają decyzje z [Modelu decyzyjnego](./08-model-decyzyjny.md) i ograniczają ryzyka z [Modelu ryzyk](./09-model-ryzyk.md).
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 45-schemat-procesu-wycofania-systemu
 title: Schemat procesu wycofania systemu
 description: Schemat procesu wycofania systemu teleinformatycznego od decyzji wstępnej do udokumentowania zamknięcia.
-sidebar_label: Schemat systemu
-sidebar_position: 45
+sidebar_label: Operacyjne: schemat systemu
+sidebar_position: 90
 keywords: [schemat, wycofanie systemu, inwentaryzacja, migracja danych, test]
 tags: [cykl-zycia-tik, schemat]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -55,3 +55,6 @@ flowchart TD
 ## Powiązania
 
 Schemat należy stosować z [Procedurą wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedurą migracji danych](./13-procedura-migracji-danych.md), [Kryteriami wycofania systemu](./25-kryteria-wycofania-systemu.md), [Dokumentowaniem procesu wycofania](./26-dokumentowanie-procesu-wycofania.md), [Listą kontrolną wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md), [Formularzem decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md) i [Rejestrem wycofania systemów](./41-rejestr-wycofania-systemow.md).
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji
 title: Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu
 description: Procedura określająca sposób działania po stwierdzeniu usunięcia, utraty lub nieprawidłowej archiwizacji zasobu cyfrowego, z uwzględnieniem obowiązków wynikających z dostępu do informacji publicznej i przepisów archiwalnych.
-sidebar_label: Incydenty archiwizacji
-sidebar_position: 49
+sidebar_label: Pomocnicze: incydenty
+sidebar_position: 103
 keywords: [archiwizacja, incydent, usunięcie danych, BIP, informacja publiczna, migracja, odzyskiwanie danych]
 tags: [cykl-zycia-tik, archiwizacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -273,11 +273,14 @@ Najważniejsze ryzyka to:
 - [Scenariusze praktyczne](./31-scenariusze-praktyczne.md)
 - [Model decyzyjny](./08-model-decyzyjny.md)
 - [Model ryzyk](./09-model-ryzyk.md)
-- [Procedura archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md)
+- [Załącznik 2. Organizacja procesu archiwizacji i wycofywania zasobów cyfrowych](./10-procedura-archiwizacji-zasobow.md)
 - [Procedura wycofywania treści](./11-procedura-wycofywania-tresci.md)
 - [Procedura wycofywania systemów](./12-procedura-wycofywania-systemow.md)
-- [Standard dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md)
+- [Załącznik 3. Dostępność cyfrowa zasobów archiwalnych i historycznych](./19-standard-dostepu-do-tresci-archiwalnych.md)
 - [Wymagania dla systemów](./24-wymagania-dla-systemow.md)
 - [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md)
 - [Najczęstsze błędy](./34-najczestsze-bledy.md)
 - [Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md)
+
+
+

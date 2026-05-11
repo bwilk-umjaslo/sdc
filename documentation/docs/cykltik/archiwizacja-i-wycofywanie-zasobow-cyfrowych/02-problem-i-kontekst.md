@@ -2,13 +2,13 @@
 id: 02-problem-i-kontekst-archiwizacji
 title: Problem i kontekst archiwizacji oraz wycofywania zasobów cyfrowych
 description: Opis luki systemowej i skutków niekontrolowanego wycofywania treści, danych i systemów cyfrowych.
-sidebar_label: Problem i kontekst
-sidebar_position: 2
+sidebar_label: Materiał: problem
+sidebar_position: 30
 keywords: [problem, kontekst, archiwizacja, zasoby cyfrowe, wycofywanie treści]
 tags: [cykl-zycia-tik, kontekst]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 # Problem i kontekst archiwizacji oraz wycofywania zasobów cyfrowych
@@ -88,4 +88,7 @@ Nieaktualne treĹ›ci pozostawione bez oznaczenia obniĹĽajÄ… wiarygodnoĹ�
 ## Luka systemowa
 
 Opisane problemy wynikajÄ… z braku wspĂłlnego standardu dla archiwizacji i wycofywania zasobĂłw cyfrowych. Zalecenie wprowadza takÄ… warstwÄ™ standardu: Ĺ‚Ä…czy [Model cyklu ĹĽycia](./06-model-cyklu-zycia.md), [Model statusĂłw zasobĂłw](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md), a nastÄ™pnie prowadzi do procedur, standardĂłw, list kontrolnych i formularzy.
+
+
+
 

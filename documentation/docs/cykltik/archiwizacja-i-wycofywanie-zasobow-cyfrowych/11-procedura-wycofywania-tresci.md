@@ -1,14 +1,14 @@
----
+﻿---
 id: 11-procedura-wycofywania-tresci
 title: Procedura wycofywania treści
 description: Procedura kontrolowanego wycofywania treści cyfrowych z publikacji publicznej.
-sidebar_label: Wycofywanie treści
-sidebar_position: 11
+sidebar_label: Materiał: wycofanie treści
+sidebar_position: 43
 keywords: [wycofanie z publikacji, treść archiwalna, BIP, WWW, dostęp na wniosek]
 tags: [cykl-zycia-tik, procedura]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -108,3 +108,6 @@ Ryzyka obejmują naruszenie dostępu do informacji publicznej, utratę wartości
 ## Powiązania
 
 Procedura korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), statusów z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), pytań z [Modelu decyzyjnego](./08-model-decyzyjny.md) i kategorii ryzyk z [Modelu ryzyk](./09-model-ryzyk.md). Do wykonania procedury należy stosować [Listę kontrolną wycofania treści](./36-lista-kontrolna-wycofania-tresci.md), [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md) oraz właściwy rejestr decyzji.
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 38-formularz-decyzji-archiwizacyjnej
 title: Formularz decyzji archiwizacyjnej
 description: Wzór formularza dokumentującego decyzję archiwizacyjną dotyczącą zasobu cyfrowego.
-sidebar_label: Decyzja archiwizacyjna
-sidebar_position: 38
+sidebar_label: Operacyjne: decyzja archiwizacji
+sidebar_position: 83
 keywords: [formularz, decyzja archiwizacyjna, zasób cyfrowy, kategoria archiwalna, dostęp]
 tags: [cykl-zycia-tik, formularz]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -84,4 +84,7 @@ Niewypełnienie formularza powoduje brak śladu decyzyjnego. Największe ryzyka 
 
 ## Powiązania
 
-Formularz wspiera [Model decyzyjny](./08-model-decyzyjny.md), [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md), [Procedurę przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md), [Standard metadanych](./16-standard-metadanych.md), [Standard dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md) i [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+Formularz wspiera [Model decyzyjny](./08-model-decyzyjny.md), [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md), [Procedurę przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md), [Standard metadanych](./16-standard-metadanych.md), [Załącznik 3. Dostępność cyfrowa zasobów archiwalnych i historycznych](./19-standard-dostepu-do-tresci-archiwalnych.md) i [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

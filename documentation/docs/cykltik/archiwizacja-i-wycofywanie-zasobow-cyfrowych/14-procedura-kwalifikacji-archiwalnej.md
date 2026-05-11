@@ -1,14 +1,14 @@
----
+﻿---
 id: 14-procedura-kwalifikacji-archiwalnej
 title: Procedura kwalifikacji archiwalnej
 description: Procedura ustalania kategorii archiwalnej i powiązania zasobu cyfrowego z JRWA oraz sprawą.
-sidebar_label: Kwalifikacja archiwalna
-sidebar_position: 14
+sidebar_label: Materiał: kwalifikacja
+sidebar_position: 45
 keywords: [kwalifikacja archiwalna, JRWA, kategoria A, kategoria B, archiwum zakładowe]
 tags: [cykl-zycia-tik, archiwizacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -93,3 +93,6 @@ Błędami są: kwalifikowanie według nazwy folderu, pomijanie JRWA, uznanie pub
 ## Powiązania
 
 Procedura odpowiada na pytania z [Modelu decyzyjnego](./08-model-decyzyjny.md), wspiera fazę kwalifikacji w [Modelu cyklu życia](./06-model-cyklu-zycia.md), aktualizuje statusy z [Modelu statusów zasobów](./07-model-statusow-zasobow.md) i ogranicza ryzyka archiwalne z [Modelu ryzyk](./09-model-ryzyk.md).
+
+
+

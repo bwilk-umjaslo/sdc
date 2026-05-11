@@ -1,14 +1,14 @@
----
+﻿---
 id: 47-zrodla-i-opracowania
 title: Źródła i opracowania
 description: Wykaz aktów prawnych, standardów i opracowań wykorzystanych przy przygotowaniu zalecenia.
-sidebar_label: Źródła
-sidebar_position: 47
+sidebar_label: Referencyjne: źródła
+sidebar_position: 101
 keywords: [źródła, akty prawne, NDAP, WCAG, EN 301 549, SDC]
 tags: [cykl-zycia-tik, źródła]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -70,3 +70,6 @@ Nie należy rozstrzygać konfliktów wyłącznie na podstawie ogólnych opisów 
 ## Powiązania
 
 Wykaz źródeł uzupełnia [Podstawy prawne](./04-podstawy-prawne.md), [Konflikty prawne i decyzyjne](./33-konflikty-prawne-i-decyzyjne.md), [Retencję i dane osobowe](./22-retencja-i-dane-osobowe.md), [Integrację z EZD](./23-integracja-z-ezd.md), [Alternatywny dostęp do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md) i [Słownik pojęć](./46-slownik-pojec.md).
+
+
+

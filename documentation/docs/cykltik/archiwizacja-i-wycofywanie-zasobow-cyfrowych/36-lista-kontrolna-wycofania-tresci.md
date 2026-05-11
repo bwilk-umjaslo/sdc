@@ -1,14 +1,14 @@
----
+﻿---
 id: 36-lista-kontrolna-wycofania-tresci
 title: Lista kontrolna wycofania treści
 description: Lista kontrolna czynności wymaganych przed wycofaniem treści z publikacji publicznej.
-sidebar_label: Lista treści
-sidebar_position: 36
+sidebar_label: Operacyjne: lista treści
+sidebar_position: 81
 keywords: [lista kontrolna, wycofanie treści, informacja publiczna, BIP, dane osobowe, dostęp alternatywny]
 tags: [cykl-zycia-tik, lista-kontrolna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -54,3 +54,6 @@ Największe ryzyka to usunięcie informacji publicznej, ukrycie treści BIP bez 
 ## Powiązania
 
 Lista wykonuje wymagania [Procedury wycofywania treści](./11-procedura-wycofywania-tresci.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Archiwizacji w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md), [Retencji i danych osobowych](./22-retencja-i-dane-osobowe.md), [Integracji z EZD](./23-integracja-z-ezd.md) i [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

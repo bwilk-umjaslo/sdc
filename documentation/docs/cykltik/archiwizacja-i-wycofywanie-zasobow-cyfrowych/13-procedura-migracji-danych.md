@@ -1,120 +1,83 @@
----
+﻿---
 id: 13-procedura-migracji-danych
-title: Procedura migracji danych
-description: Procedura planowania, wykonania i potwierdzania migracji danych oraz metadanych.
-sidebar_label: Migracja danych
+title: Załącznik 4. Migracja danych i wycofywanie systemów teleinformatycznych
+description: Normatywne wymagania dla migracji danych, zachowania dostępności i udokumentowanego wycofania systemu teleinformatycznego.
+sidebar_label: Zał. 4 Migracja i systemy
 sidebar_position: 13
-keywords: [migracja danych, eksport, mapowanie pól, test odtworzenia, protokół migracji]
-tags: [cykl-zycia-tik, migracja]
+keywords: [migracja danych, wycofanie systemu, dostępność, integralność, metadane]
+tags: [cykl-zycia-tik, załącznik]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Procedura migracji danych
+# Załącznik 4. Migracja danych i wycofywanie systemów teleinformatycznych
 
-## Cel
+## Zakres załącznika
 
-Celem procedury jest zapewnienie, aby migracja danych była zaplanowana, kontrolowana, testowana i udokumentowana. Migracja jest częścią archiwizacji i wycofywania systemów, ponieważ decyduje o tym, czy zasób cyfrowy zachowa treść, strukturę, metadane, kontekst i możliwość odczytu w czasie.
+Załącznik określa minimalne wymagania dla migracji danych i wycofywania systemów teleinformatycznych. Łączy treści z wcześniejszych materiałów dotyczących procedury migracji danych, wymagań dla systemów, kryteriów wycofania systemu i dokumentowania procesu wycofania.
 
-## Zakres
+## Zasada podstawowa
 
-Procedurę stosuje się do migracji danych z CMS, BIP, EZD, systemów dziedzinowych, repozytoriów plików, baz danych, systemów formularzy, aplikacji mobilnych i platform projektowych.
+Migracja i wycofanie systemu nie mogą prowadzić do utraty danych, dokumentów, metadanych, relacji, kontekstu, integralności ani dostępności cyfrowej. System źródłowy powinien pozostać dostępny albo zabezpieczony do czasu potwierdzenia, że dane zostały przeniesione, zarchiwizowane albo opisane w sposób umożliwiający ich dalsze użycie.
 
-Migracja może dotyczyć przeniesienia do nowego systemu, eksportu do repozytorium archiwalnego, konwersji formatu, konsolidacji danych albo wydzielenia zasobów historycznych.
+## Minimalne wymagania dla migracji
 
-## Zasady
+Migracja powinna obejmować:
 
-Migracja nie może ograniczać się do przeniesienia plików. Powinna obejmować dane, metadane, relacje, statusy, załączniki, wersje, identyfikatory, powiązania ze sprawami, informacje o publikacji i elementy potrzebne do zachowania integralności.
+- inwentaryzację danych, dokumentów, załączników, multimediów, rekordów, statusów i metadanych;
+- wskazanie właściciela danych, właściciela systemu i osób odpowiedzialnych za odbiór;
+- decyzję, które zasoby są migrowane, archiwizowane, pozostawione tylko do odczytu albo przeznaczone do brakowania;
+- mapowanie pól, identyfikatorów, statusów, dat, wersji, relacji i uprawnień;
+- przeniesienie informacji o publikacji, archiwizacji, dostępności i ograniczeniach dostępu;
+- zachowanie oryginału albo kopii kontrolnej do czasu odbioru;
+- test kompletności, odczytu, wyszukiwania, integralności i dostępności;
+- protokół migracji i decyzję o dalszym losie systemu źródłowego.
 
-Nie wolno usuwać systemu źródłowego ani danych źródłowych przed potwierdzeniem, że migracja została wykonana, sprawdzona i odebrana. Zachowanie oryginału albo kopii kontrolnej jest wymagane co najmniej do czasu zakończenia odbioru i decyzji o dalszym przechowywaniu.
+## Zachowanie dostępności po migracji
 
-## Warunki wejścia
+Migracja powinna chronić dostępność treści, dokumentów i formularzy. Należy przenieść albo odtworzyć elementy, które pozwalają użytkownikom korzystać z informacji: strukturę stron, nagłówki, etykiety, teksty alternatywne, transkrypcje, napisy, opisy linków, język dokumentu, kolejność czytania, metadane dostępności i informacje o dostępie alternatywnym.
 
-Procedurę rozpoczyna się, gdy planowana jest zmiana systemu, wycofanie systemu, przeniesienie danych do repozytorium, uporządkowanie zasobów, modernizacja BIP albo CMS, wdrożenie EZD, zakończenie projektu albo potrzeba zabezpieczenia zasobów historycznych.
+Testy migracji powinny obejmować zasoby aktywne i archiwalne. Próbka testowa powinna zawierać zasoby typowe oraz trudne: stare pliki PDF, skany, multimedia, formularze, załączniki BIP, strony projektów i rekordy powiązane z dokumentacją sprawy.
 
-Minimalne dane wejściowe to opis systemu źródłowego, właściciel systemu, właściciel danych, zakres zasobów, system docelowy albo repozytorium, wymagania prawne i planowany termin.
+## Minimalne wymagania dla systemów
 
-## Przebieg krok po kroku
+System wykorzystywany do publikacji, przechowywania albo obsługi zasobów cyfrowych powinien umożliwiać co najmniej:
 
-### 1. Inwentaryzacja danych
+- przypisanie właściciela, statusu, dat i podstawowych metadanych;
+- oznaczanie treści archiwalnych i wycofanych;
+- eksport danych, dokumentów, załączników i metadanych w udokumentowanym formacie;
+- zachowanie historii publikacji albo informacji o wersji;
+- kontrolę uprawnień i ograniczeń dostępu;
+- zachowanie informacji o dostępności i dostępie alternatywnym;
+- przygotowanie danych do migracji albo archiwizacji;
+- udokumentowane wyłączenie po zakończeniu procesu.
 
-Należy ustalić typy danych, liczbę rekordów, dokumenty, załączniki, multimedia, użytkowników, statusy, metadane, logi, relacje i dane historyczne. Inwentaryzacja powinna wskazać, które elementy są aktywne, archiwalne, przeznaczone do migracji, wycofane albo objęte retencją.
+Brak tych funkcji powinien być traktowany jako ryzyko przy utrzymaniu albo zamówieniu systemu.
 
-### 2. Ustalenie zakresu migracji
+## Kryteria wycofania systemu
 
-Należy określić, co jest migrowane do systemu docelowego, co jest archiwizowane, co pozostaje tylko do odczytu, a co może zostać przygotowane do brakowania. Decyzje powinny wynikać z [Modelu decyzyjnego](./08-model-decyzyjny.md).
+System może zostać wycofany, gdy:
 
-### 3. Mapowanie pól
+- ustalono pełny zakres danych, dokumentów, metadanych, załączników, logów i integracji;
+- określono, które zasoby wymagają dalszego dostępu publicznego, dostępu na wniosek albo ograniczenia;
+- wykonano migrację albo archiwizację zasobów wymagających zachowania;
+- potwierdzono dostępność i odczyt zasobów po migracji;
+- udokumentowano dane niemigrowane oraz podstawę ich dalszego przechowywania albo brakowania;
+- ustalono sposób obsługi użytkowników po wyłączeniu systemu;
+- kierownictwo albo właściciel systemu zatwierdził zamknięcie.
 
-Należy opisać relację między polami systemu źródłowego i docelowego. Mapowanie powinno obejmować identyfikatory, tytuły, daty, właścicieli, statusy, kategorie archiwalne, adresy URL, powiązania ze sprawami, formaty, uprawnienia i informacje o dostępności.
+## Ryzyka wymagające kontroli
 
-### 4. Eksport
+Najważniejsze ryzyka to utrata metadanych, utrata relacji między rekordem a załącznikiem, utrata podpisów albo historii wersji, zmiana znaczenia danych po konwersji, utrata dostępności dokumentów, brak przekierowań, niepełny eksport, brak testu odtworzenia, nieuprawnione ujawnienie danych i brak możliwości wykazania, co stało się z danymi po wyłączeniu systemu.
 
-Eksport powinien być wykonany w formacie możliwym do odczytu i kontroli. Dla danych tabelarycznych właściwe mogą być formaty CSV albo XML, dla dokumentów formaty trwałe, a dla metadanych struktury jawne i udokumentowane. Eksport powinien być powtarzalny i opisany. Przed rozpoczęciem importu należy zachować oryginał albo kopię kontrolną oraz przeprowadzić test odtworzenia tego eksportu w niezależnym środowisku.
+## Dokumentowanie procesu
 
-### 5. Transformacja
+Dokumentacja migracji i wycofania systemu powinna zawierać zakres, podstawę decyzji, osoby odpowiedzialne, wyniki testów, wykaz błędów, działania naprawcze, decyzję o danych niemigrowanych, potwierdzenie dostępności zasobów publicznych i datę zakończenia procesu.
 
-Jeżeli dane wymagają konwersji, należy udokumentować reguły transformacji, zachować oryginał i sprawdzić, czy nie utracono znaków, dat, relacji, wersji, podpisów, załączników albo metadanych.
+## Powiązane materiały pomocnicze
 
-### 6. Import
+Szczegółowe rozwinięcia znajdują się w materiałach: [Wymagania dla systemów](./24-wymagania-dla-systemow.md), [Kryteria wycofania systemu](./25-kryteria-wycofania-systemu.md), [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md), [Lista kontrolna wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md), [Rejestr wycofania systemów](./41-rejestr-wycofania-systemow.md) i [Schemat procesu wycofania systemu](./45-schemat-procesu-wycofania-systemu.md).
 
-Import do systemu docelowego powinien być wykonany najpierw testowo. Należy sprawdzić, czy system docelowy zachowuje statusy, właścicieli, historię, linki, uprawnienia i możliwość wyszukania danych.
 
-### 7. Testy
-
-Testy powinny obejmować integralność, kompletność, czytelność, relacje, uprawnienia, dostępność cyfrową, wyszukiwanie, raportowanie i odtworzenie zasobów historycznych. Próbka testowa powinna obejmować przypadki typowe i trudne.
-
-### 8. Odbiór
-
-Odbiór migracji powinien mieć formę protokołu. Protokół wskazuje zakres migracji, datę, osoby odpowiedzialne, wynik testów, liczbę przeniesionych elementów, błędy, działania naprawcze i decyzję o dalszym losie systemu źródłowego.
-
-## Wymagania
-
-Migracja powinna zachować:
-
-- metadane,
-- strukturę danych,
-- powiązania między rekordami i dokumentami,
-- statusy zasobów,
-- identyfikatory i daty,
-- integralność plików,
-- możliwość odczytu w czasie,
-- informację o dostępie publicznym albo ograniczonym,
-- dane potrzebne do archiwizacji formalnej.
-
-## Wariant minimalny (system ograniczony)
-
-Jeżeli system nie posiada eksportu danych, logów, metadanych albo wersjonowania, migrację należy poprzedzić zabezpieczeniem minimalnym. Brak funkcji systemu trzeba opisać jako ryzyko i uwzględnić w protokole migracji.
-
-W wariancie minimalnym należy:
-
-- wykonać manualną kopię plików,
-- wykonać zrzut bazy danych, jeżeli jest to możliwe,
-- sporządzić wykaz URL,
-- sporządzić wykaz plików,
-- opisać brak funkcji systemu, w szczególności brak eksportu, logów, metadanych albo wersjonowania,
-- sporządzić protokół braków,
-- wskazać dane, których nie da się przenieść automatycznie,
-- wykonać test odtworzenia przynajmniej na próbce typowych i trudnych przypadków.
-
-Jeżeli nawet wariant minimalny nie jest możliwy, należy udokumentować brak możliwości migracji, wskazać źródła sprawdzone i przekazać decyzję do właściciela systemu albo kierownictwa.
-
-## Warunki wyjścia
-
-Migracja jest zakończona, gdy dane zostały zaimportowane albo zarchiwizowane, testy zakończyły się wynikiem pozytywnym, protokół został zatwierdzony, a system źródłowy ma określony dalszy status.
-
-## Decyzje
-
-Decyzje migracyjne obejmują zakres danych, format eksportu, system docelowy, zasady transformacji, czas utrzymania systemu źródłowego, zakres archiwizacji i sposób obsługi danych, których nie można przenieść automatycznie.
-
-## Błędy i ryzyka
-
-Najważniejsze ryzyka to utrata danych, utrata kontekstu, utrata metadanych, uszkodzenie plików, błędne mapowanie pól, brak testu odtworzenia, brak kontroli integralności i brak protokołu migracji.
-
-Ryzyko utraty kontekstu jest szczególnie istotne w BIP, CMS i systemach dziedzinowych, gdzie dokument może mieć znaczenie tylko razem z datą publikacji, kategorią sprawy, statusem i powiązanym rekordem.
-
-## Powiązania
-
-Procedura realizuje fazę migracji z [Modelu cyklu życia](./06-model-cyklu-zycia.md), korzysta ze statusów z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), wymaga decyzji z [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka wskazane w [Modelu ryzyk](./09-model-ryzyk.md). Do wykonania procedury należy stosować [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md), [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md), a przy wyłączaniu systemu także [Listę kontrolną wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md).

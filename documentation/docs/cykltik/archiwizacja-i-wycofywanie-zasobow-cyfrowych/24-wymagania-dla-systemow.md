@@ -1,14 +1,14 @@
----
+﻿---
 id: 24-wymagania-dla-systemow
 title: Wymagania dla systemów
 description: Minimalne wymagania dla systemów przechowujących, publikujących i eksportujących zasoby cyfrowe.
-sidebar_label: Wymagania systemowe
-sidebar_position: 24
+sidebar_label: Materiał: wymagania systemów
+sidebar_position: 54
 keywords: [wymagania systemowe, CMS, BIP, repozytorium, eksport, logi]
 tags: [cykl-zycia-tik, systemy]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -24,7 +24,7 @@ Wymagania dotyczą CMS, BIP, EZD, repozytoriów plików, aplikacji mobilnych, sy
 
 ## Zasady
 
-System powinien wspierać cały [Model cyklu życia](./06-model-cyklu-zycia.md), a nie tylko etap publikacji albo bieżącej obsługi. Już przy zakupie, wdrożeniu albo modernizacji systemu należy przewidzieć statusy, eksport, metadane, logi, migrację i wycofanie.
+System powinien wspierać cały [Załącznik 1. Model cyklu życia zasobów cyfrowych](./06-model-cyklu-zycia.md), a nie tylko etap publikacji albo bieżącej obsługi. Już przy zakupie, wdrożeniu albo modernizacji systemu należy przewidzieć statusy, eksport, metadane, logi, migrację i wycofanie.
 
 System, który nie zapewnia eksportu danych, metadanych i dokumentacji technicznej, tworzy istotne ryzyko dla podmiotu publicznego. Takie ryzyko powinno być oceniane przed wdrożeniem i przed przedłużeniem umowy.
 
@@ -94,3 +94,6 @@ System niespełniający wymagań powinien zostać objęty planem naprawczym, mig
 ## Powiązania
 
 Wymagania wynikają z [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Procedury migracji danych](./13-procedura-migracji-danych.md), [Procedury wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Standardu metadanych](./16-standard-metadanych.md) i [Standardu formatów archiwalnych](./17-standard-formatow-archiwalnych.md).
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 35-lista-kontrolna-archiwizacji
 title: Lista kontrolna archiwizacji
 description: Lista kontrolna czynności i warunków wymaganych przed archiwizacją zasobu cyfrowego.
-sidebar_label: Lista archiwizacji
-sidebar_position: 35
+sidebar_label: Operacyjne: lista archiwizacji
+sidebar_position: 80
 keywords: [lista kontrolna, archiwizacja, metadane, JRWA, integralność, decyzja]
 tags: [cykl-zycia-tik, lista-kontrolna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -58,3 +58,6 @@ Pominięcie listy może prowadzić do archiwizacji pozornej, w której zasób je
 ## Powiązania
 
 Lista wykonuje wymagania [Procedury archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedury kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md), [Procedury przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md), [Standardu metadanych](./16-standard-metadanych.md), [Standardu formatów archiwalnych](./17-standard-formatow-archiwalnych.md) i [Standardu integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md).
+
+
+

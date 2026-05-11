@@ -1,14 +1,14 @@
----
+﻿---
 id: 41-rejestr-wycofania-systemow
 title: Rejestr wycofania systemów
 description: Wzór rejestru systemów przeznaczonych do wycofania albo wycofanych z eksploatacji.
-sidebar_label: Rejestr systemów
-sidebar_position: 41
+sidebar_label: Operacyjne: rejestr systemów
+sidebar_position: 86
 keywords: [rejestr, wycofanie systemów, migracja danych, system docelowy, dokumentacja]
 tags: [cykl-zycia-tik, rejestr]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -52,3 +52,6 @@ Rejestr powinien być powiązany z [Procedurą wycofywania systemów](./12-proce
 ## Powiązania
 
 Rejestr należy stosować z [Listą kontrolną wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md), [Formularzem decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md), [Wymaganiami dla systemów](./24-wymagania-dla-systemow.md), [Modelem ryzyk](./09-model-ryzyk.md) i [Mapą odpowiedzialności](./30-mapa-odpowiedzialnosci.md).
+
+
+

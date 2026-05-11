@@ -1,14 +1,14 @@
----
+﻿---
 id: 12-procedura-wycofywania-systemow
 title: Procedura wycofywania systemów
 description: Procedura wycofywania systemów teleinformatycznych z zachowaniem danych, metadanych i ciągłości dostępu.
-sidebar_label: Wycofywanie systemów
-sidebar_position: 12
+sidebar_label: Materiał: wycofanie systemów
+sidebar_position: 44
 keywords: [wycofywanie systemów, migracja danych, system teleinformatyczny, eksport, dokumentowanie]
 tags: [cykl-zycia-tik, procedura]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -127,3 +127,6 @@ Ryzyka opisano w [Modelu ryzyk](./09-model-ryzyk.md). Przy wycofaniu systemu szc
 ## Powiązania
 
 Procedura rozwija fazę wycofania z [Modelu cyklu życia](./06-model-cyklu-zycia.md), wykorzystuje status przeznaczony do migracji z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), odpowiada na pytania z [Modelu decyzyjnego](./08-model-decyzyjny.md) i powinna być stosowana z [Kryteriami wycofania systemu](./25-kryteria-wycofania-systemu.md). Do wykonania procedury należy stosować [Listę kontrolną wycofania systemu](./37-lista-kontrolna-wycofania-systemu.md), [Formularz decyzji o wycofaniu](./39-formularz-decyzji-o-wycofaniu.md), [Rejestr wycofania systemów](./41-rejestr-wycofania-systemow.md) oraz [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

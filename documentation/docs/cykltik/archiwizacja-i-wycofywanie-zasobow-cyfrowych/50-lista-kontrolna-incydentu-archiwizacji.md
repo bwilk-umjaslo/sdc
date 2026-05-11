@@ -1,14 +1,14 @@
----
+﻿---
 id: 50-lista-kontrolna-incydentu-archiwizacji
 title: Lista kontrolna obsługi incydentu archiwizacji zasobów cyfrowych
 description: Lista kontrolna wspierająca postępowanie w przypadku usunięcia, utraty lub nieprawidłowej archiwizacji zasobu cyfrowego.
-sidebar_label: Lista kontrolna incydentu
-sidebar_position: 50
+sidebar_label: Operacyjne: lista incydentu
+sidebar_position: 104
 keywords: [archiwizacja, incydent, kontrola, BIP, migracja danych]
 tags: [cykl-zycia-tik, archiwizacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -141,3 +141,6 @@ Jeżeli wystąpiła utrata danych osobowych, nieuprawniony dostęp, ujawnienie d
 ## Powiązania
 
 - [Procedura postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md)
+
+
+

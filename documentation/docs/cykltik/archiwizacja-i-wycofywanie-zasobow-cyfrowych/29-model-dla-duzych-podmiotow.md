@@ -1,26 +1,26 @@
----
+﻿---
 id: 29-model-dla-duzych-podmiotow
-title: Model dla dużych podmiotów
-description: Model wdrożenia archiwizacji, migracji i wycofywania systemów w dużych podmiotach publicznych.
-sidebar_label: Duże podmioty
-sidebar_position: 29
+title: Wariant rozszerzony dla dużych podmiotów
+description: Rozszerzony wariant wdrożenia archiwizacji, migracji i wycofywania systemów w dużych podmiotach publicznych.
+sidebar_label: Materiał: duże podmioty
+sidebar_position: 58
 keywords: [duży podmiot, EZD, archiwum zakładowe, wiele systemów, audyt]
 tags: [cykl-zycia-tik, wdrożenie]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Model dla dużych podmiotów
+# Wariant rozszerzony dla dużych podmiotów
 
 ## Cel
 
-Celem modelu jest wskazanie, jak duży podmiot publiczny powinien zorganizować archiwizację, migrację i wycofywanie zasobów cyfrowych przy wielu systemach, rozbudowanej strukturze odpowiedzialności, EZD, archiwum zakładowym, wykonawcach zewnętrznych i dużej skali publikacji.
+Celem wariantu jest wskazanie, jak duży podmiot publiczny powinien zorganizować archiwizację, migrację i wycofywanie zasobów cyfrowych przy wielu systemach, rozbudowanej strukturze odpowiedzialności, EZD, archiwum zakładowym, wykonawcach zewnętrznych i dużej skali publikacji.
 
 ## Zakres
 
-Model dotyczy podmiotów posiadających wiele serwisów, BIP, systemy dziedzinowe, repozytoria plików, EZD, archiwum zakładowe, zespół IT, właścicieli procesów, IOD, koordynatora dostępności i formalne procesy zakupowe.
+Wariant dotyczy podmiotów posiadających wiele serwisów, BIP, systemy dziedzinowe, repozytoria plików, EZD, archiwum zakładowe, zespół IT, właścicieli procesów, IOD, koordynatora dostępności i formalne procesy zakupowe.
 
 ## Zasady
 
@@ -81,4 +81,7 @@ Ryzyka dużych podmiotów to rozproszenie odpowiedzialności, niespójne metadan
 
 ## Powiązania
 
-Model rozwija poziom zaawansowany z [Modeli wdrożeniowych](./27-modele-wdrozeniowe.md). Korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu statusów zasobów](./07-model-statusow-zasobow.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Integracji z EZD](./23-integracja-z-ezd.md), [Wymagań dla systemów](./24-wymagania-dla-systemow.md), [Kryteriów wycofania systemu](./25-kryteria-wycofania-systemu.md) i [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+Wariant rozwija poziom zaawansowany z [Wariantów wdrożenia](./27-modele-wdrozeniowe.md). Korzysta z [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu statusów zasobów](./07-model-statusow-zasobow.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Integracji z EZD](./23-integracja-z-ezd.md), [Wymagań dla systemów](./24-wymagania-dla-systemow.md), [Kryteriów wycofania systemu](./25-kryteria-wycofania-systemu.md) i [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

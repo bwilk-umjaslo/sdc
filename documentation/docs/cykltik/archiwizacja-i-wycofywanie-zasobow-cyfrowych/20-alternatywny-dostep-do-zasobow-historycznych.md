@@ -1,14 +1,14 @@
----
+﻿---
 id: 20-alternatywny-dostep-do-zasobow-historycznych
 title: Alternatywny dostęp do zasobów historycznych
 description: Zasady zapewniania dostępu alternatywnego do zasobów historycznych i treści archiwalnych.
-sidebar_label: Dostęp alternatywny
-sidebar_position: 20
+sidebar_label: Materiał: dostęp alternatywny
+sidebar_position: 50
 keywords: [dostęp alternatywny, zasób historyczny, transkrypcja, streszczenie, dostępność cyfrowa]
 tags: [cykl-zycia-tik, dostępność]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -97,3 +97,6 @@ Ryzyka obejmują także błędne powoływanie się na archiwalność jako powód
 ## Powiązania
 
 Dokument rozwija wymagania dostępności w cyklu życia opisanym w [Modelu cyklu życia](./06-model-cyklu-zycia.md), korzysta ze statusu wymagającego dostępu alternatywnego z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), odpowiada na pytania z [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka z [Modelu ryzyk](./09-model-ryzyk.md). Należy go stosować razem ze [Standardem dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md), WCAG oraz ustawą o dostępności cyfrowej.
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 30-mapa-odpowiedzialnosci
 title: Mapa odpowiedzialności
 description: Mapa ról, decyzji i odpowiedzialności w procesie archiwizacji oraz wycofywania zasobów cyfrowych.
-sidebar_label: Odpowiedzialności
-sidebar_position: 30
+sidebar_label: Materiał: odpowiedzialność
+sidebar_position: 59
 keywords: [odpowiedzialność, właściciel zasobu, właściciel systemu, IT, IOD, archiwum zakładowe]
 tags: [cykl-zycia-tik, odpowiedzialność]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -92,3 +92,6 @@ Ryzyka te należy oceniać zgodnie z [Modelem ryzyk](./09-model-ryzyk.md).
 ## Powiązania
 
 Mapa rozwija odpowiedzialności wskazane w [Modelu cyklu życia](./06-model-cyklu-zycia.md), stosuje statusy z [Modelu statusów zasobów](./07-model-statusow-zasobow.md), porządkuje decyzje z [Modelu decyzyjnego](./08-model-decyzyjny.md) i wspiera wykonanie [Procedury archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedury wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedury wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Standardu metadanych](./16-standard-metadanych.md) oraz [Standardu integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md).
+
+
+

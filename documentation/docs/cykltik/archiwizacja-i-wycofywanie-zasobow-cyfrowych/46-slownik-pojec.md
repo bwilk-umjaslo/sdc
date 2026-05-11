@@ -1,14 +1,14 @@
----
+﻿---
 id: 46-slownik-pojec
 title: Słownik pojęć
 description: Słownik pojęć stosowanych w zaleceniu dotyczącym archiwizacji i wycofywania zasobów cyfrowych.
-sidebar_label: Słownik pojęć
-sidebar_position: 46
+sidebar_label: Referencyjne: słownik
+sidebar_position: 100
 keywords: [słownik, archiwizacja cyfrowa, zasób cyfrowy, retencja, paczka archiwalna]
 tags: [cykl-zycia-tik, słownik]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -16,7 +16,7 @@ wersja_robocza: true
 
 ## Cel
 
-Celem słownika jest ujednolicenie pojęć stosowanych w zaleceniu. Definicje mają charakter operacyjny i służą stosowaniu procedury w podmiocie publicznym.
+Celem słownika jest ujednolicenie pojęć stosowanych w zaleceniu i materiałach wdrożeniowych. Definicje mają charakter operacyjny i służą spójnemu zarządzaniu zasobami cyfrowymi w podmiocie publicznym.
 
 ## Pojęcia ogólne
 
@@ -25,6 +25,7 @@ Celem słownika jest ujednolicenie pojęć stosowanych w zaleceniu. Definicje ma
 | Archiwum państwowe | Właściwa jednostka państwowej sieci archiwalnej, z którą podmiot uzgadnia sprawy materiałów archiwalnych i brakowania w zakresie wymaganym przepisami. |
 | Archiwum zakładowe | Komórka albo funkcja w podmiocie odpowiedzialna za przejmowanie, ewidencjonowanie, przechowywanie i udostępnianie dokumentacji zgodnie z instrukcją archiwalną. |
 | Autentyczność | Możliwość wykazania pochodzenia, autorstwa, kontekstu i wiarygodności zasobu. |
+| Cykl życia TIK | Ciąg decyzji i działań dotyczących zasobu, usługi lub systemu TIK od planowania i utworzenia, przez publikację, utrzymanie i przeglądy, po migrację, archiwizację, wycofanie albo brakowanie. |
 | Dane systemowe | Dane przechowywane w systemie, które opisują działanie, konfigurację, relacje, logi, uprawnienia albo historię zasobu. |
 | Dane osobowe | Dane dotyczące osoby fizycznej, które wymagają oceny przed publikacją, dalszym przechowywaniem, migracją, ograniczeniem dostępu albo anonimizacją. |
 | Dokument elektroniczny | Dokument utrwalony w postaci cyfrowej, który może być częścią akt sprawy, publikacji, systemu albo paczki archiwalnej. |
@@ -37,12 +38,13 @@ Celem słownika jest ujednolicenie pojęć stosowanych w zaleceniu. Definicje ma
 | Kopia zapasowa | Kopia danych albo systemu służąca do odtworzenia zasobu po błędzie, awarii, incydencie albo nieudanej migracji. |
 | Log | Zapis zdarzeń w systemie, który pomaga ustalić czynności wykonane na zasobie, użytkownika, czas, zakres zmiany i skutek. |
 | Metadane | Dane opisujące zasób, w szczególności identyfikator, nazwę, właściciela, daty, status, format, źródło, kategorię, lokalizację i powiązanie ze sprawą. |
+| Metadane zasobu | Zestaw danych opisowych pozwalających zidentyfikować zasób cyfrowy, ustalić jego właściciela, status, lokalizację, format, daty, powiązanie ze sprawą, kategorię archiwalną, dostępność i dalszy sposób postępowania. |
 | Repozytorium | Miejsce przechowywania zasobów, danych, plików albo paczek archiwalnych wraz z zasadami dostępu i utrzymania. |
 | System dziedzinowy | System obsługujący określony obszar działania podmiotu, w którym mogą powstawać dane, dokumenty, załączniki i metadane wymagające archiwizacji. |
 | Status zasobu | Oznaczenie etapu lub sposobu traktowania zasobu, które wskazuje, czy zasób jest aktywny, archiwalny, wycofany, migrowany, do przeglądu albo wymaga uzupełnienia. |
 | Treść | Informacja przeznaczona do odczytu przez użytkownika, publikowana albo przechowywana jako strona, wpis, dokument, załącznik, multimedia lub komunikat. |
 | Treść archiwalna | Treść, która nie pełni już funkcji bieżącej, ale została zachowana i może być dostępna publicznie albo na wniosek ze względu na wartość informacyjną, dokumentacyjną albo historyczną. |
-| Zasób cyfrowy | Dokument, treść, dane, plik, multimedia, rekord, formularz, wpis, eksport, log albo inny obiekt przechowywany, przetwarzany lub udostępniany w postaci cyfrowej. |
+| Zasób cyfrowy | Strona, podstrona, dokument, plik, dane, multimedia, formularz, komponent usługi cyfrowej, system albo część systemu teleinformatycznego, a także inny obiekt przechowywany, przetwarzany lub udostępniany w postaci cyfrowej. |
 | Zasób historyczny | Zasób zachowany ze względu na znaczenie dla historii sprawy, projektu, publikacji, działania podmiotu, informacji publicznej albo ciągłości wiedzy organizacyjnej. |
 
 ## Procesy i działania
@@ -54,6 +56,7 @@ Celem słownika jest ujednolicenie pojęć stosowanych w zaleceniu. Definicje ma
 | Archiwizacja operacyjna | Zachowanie zasobu w sposób pozwalający podmiotowi nadal go odszukać, odczytać, wyjaśnić jego kontekst i obsłużyć dalszy dostęp. |
 | Anonimizacja | Trwałe usunięcie albo przekształcenie danych osobowych w taki sposób, aby zasób mógł być dalej używany bez identyfikacji osób. |
 | Brakowanie | Formalne niszczenie albo usuwanie dokumentacji kategorii B po upływie okresu przechowywania, po kwalifikacji i po spełnieniu wymaganej procedury. |
+| Brakowanie dokumentacji | Czynność polegająca na zniszczeniu albo trwałym usunięciu dokumentacji niearchiwalnej po upływie okresu przechowywania i po przeprowadzeniu wymaganej procedury. |
 | Decyzja tymczasowa | Decyzja zabezpieczająca zasób do czasu ustalenia właściciela, kategorii archiwalnej, podstawy dostępu albo sposobu odtworzenia. |
 | Eksport danych | Przygotowanie danych, plików, metadanych i relacji do przekazania poza system źródłowy w uzgodnionym formacie. |
 | Inwentaryzacja | Ustalenie, jakie zasoby, dane, dokumenty, systemy, relacje i zależności muszą zostać objęte decyzją, migracją albo archiwizacją. |
@@ -63,6 +66,7 @@ Celem słownika jest ujednolicenie pojęć stosowanych w zaleceniu. Definicje ma
 | Paczka archiwalna | Uporządkowany zestaw treści, danych, metadanych, dokumentacji i potwierdzeń integralności przygotowany do przechowywania albo przekazania. |
 | Przegląd zasobu | Ocena aktualności, statusu, właściciela, kategorii archiwalnej, dostępności, ryzyk i dalszego sposobu postępowania z zasobem. |
 | Protokół braków | Dokument opisujący, których elementów zasobu, systemu, metadanych, logów albo relacji nie udało się odtworzyć lub przekazać. |
+| Przekazanie dokumentacji | Przekazanie dokumentacji do właściwego miejsca przechowywania, w tym do archiwum zakładowego, repozytorium albo innej wskazanej komórki, wraz z ewidencją, metadanymi i informacją o odpowiedzialności. |
 | Przekazanie do archiwum zakładowego | Czynność organizacyjna polegająca na przekazaniu dokumentacji do archiwum zakładowego wraz z wymaganą ewidencją i metadanymi. |
 | Retencja | Okres i sposób przechowywania dokumentacji, danych albo zasobów wynikający z JRWA, przepisów, decyzji organizacyjnej albo potrzeby dowodowej. |
 | Test odtworzenia | Sprawdzenie, czy zasób, eksport, kopia albo paczka archiwalna mogą zostać odczytane wraz z metadanymi i podstawowym kontekstem. |
@@ -136,3 +140,6 @@ Jeżeli pojęcie ma znaczenie prawne w przepisach albo dokumentacji wewnętrznej
 ## Powiązania
 
 Słownik należy stosować z [Modelem cyklu życia](./06-model-cyklu-zycia.md), [Modelem statusów zasobów](./07-model-statusow-zasobow.md), [Modelem decyzyjnym](./08-model-decyzyjny.md), [Standardem metadanych](./16-standard-metadanych.md), [Standardem integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md) oraz [Mapą odpowiedzialności](./30-mapa-odpowiedzialnosci.md).
+
+
+

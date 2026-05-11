@@ -2,13 +2,13 @@
 id: 08-model-decyzyjny-zasobow-cyfrowych
 title: Model decyzyjny dla zasobów cyfrowych
 description: Pytania i decyzje wspierające archiwizację, migrację i wycofywanie zasobów cyfrowych.
-sidebar_label: Model decyzyjny
-sidebar_position: 8
+sidebar_label: Materiał: decyzje
+sidebar_position: 41
 keywords: [model decyzyjny, archiwizacja, wycofanie z publikacji, migracja danych, JRWA]
 tags: [cykl-zycia-tik, model]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 # Model decyzyjny dla zasobów cyfrowych
@@ -127,4 +127,7 @@ Decyzja moĹĽliwa dla dokumentacji kategorii B po speĹ‚nieniu warunkĂłw wy
 KaĹĽda decyzja powinna byÄ‡ moĹĽliwa do odtworzenia. Minimalny zapis decyzji obejmuje identyfikator zasobu, wĹ‚aĹ›ciciela, opis, status przed decyzjÄ…, status po decyzji, podstawÄ™, ocenÄ™ dostÄ™pnoĹ›ci, ocenÄ™ danych osobowych, kwalifikacjÄ™ archiwalnÄ…, sposĂłb dalszego dostÄ™pu, osobÄ™ odpowiedzialnÄ… i datÄ™.
 
 Dokumentowanie decyzji ogranicza ryzyka opisane w [Modelu ryzyk](./09-model-ryzyk.md) i pozwala wykazaÄ‡, ĹĽe archiwizacja albo wycofanie nie byĹ‚o przypadkowÄ… czynnoĹ›ciÄ… technicznÄ….
+
+
+
 

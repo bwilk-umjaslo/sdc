@@ -1,14 +1,14 @@
----
+﻿---
 id: 39-formularz-decyzji-o-wycofaniu
 title: Formularz decyzji o wycofaniu
 description: Wzór formularza dokumentującego decyzję o wycofaniu treści, danych albo systemu.
-sidebar_label: Decyzja o wycofaniu
-sidebar_position: 39
+sidebar_label: Operacyjne: decyzja wycofania
+sidebar_position: 84
 keywords: [formularz, decyzja o wycofaniu, wycofanie treści, wycofanie systemu, migracja, archiwizacja]
 tags: [cykl-zycia-tik, formularz]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -83,3 +83,6 @@ Brak formularza zwiększa ryzyko wycofania bez podstawy, utraty danych, braku ko
 ## Powiązania
 
 Formularz wykonuje wymagania [Procedury wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedury wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedury migracji danych](./13-procedura-migracji-danych.md), [Modelu decyzyjnego](./08-model-decyzyjny.md), [Modelu ryzyk](./09-model-ryzyk.md), [Kryteriów wycofania systemu](./25-kryteria-wycofania-systemu.md) i [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

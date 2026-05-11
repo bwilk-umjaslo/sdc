@@ -1,14 +1,14 @@
----
+﻿---
 id: 18-standard-integralnosci-i-autentycznosci
 title: Standard integralności i autentyczności
 description: Standard zabezpieczania integralności, autentyczności i śladu audytowego zasobów cyfrowych.
-sidebar_label: Integralność
-sidebar_position: 18
+sidebar_label: Materiał: integralność
+sidebar_position: 49
 keywords: [integralność, autentyczność, sumy kontrolne, podpis elektroniczny, logi zmian]
 tags: [cykl-zycia-tik, standard]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -83,3 +83,6 @@ Brak integralności i autentyczności może uniemożliwić wykazanie, że zasób
 ## Powiązania
 
 Standard wspiera [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę migracji danych](./13-procedura-migracji-danych.md), [Procedurę przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md) i ryzyka opisane w [Modelu ryzyk](./09-model-ryzyk.md). Integralność i autentyczność powinny być utrzymywane w fazach [Modelu cyklu życia](./06-model-cyklu-zycia.md), odzwierciedlone w [Modelu statusów zasobów](./07-model-statusow-zasobow.md) i sprawdzane przy decyzjach z [Modelu decyzyjnego](./08-model-decyzyjny.md).
+
+
+

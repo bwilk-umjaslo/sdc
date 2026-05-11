@@ -1,14 +1,14 @@
----
+﻿---
 id: 31-scenariusze-praktyczne
 title: Scenariusze praktyczne
 description: Przykładowe scenariusze stosowania procedury archiwizacji i wycofywania zasobów cyfrowych.
-sidebar_label: Scenariusze
-sidebar_position: 31
+sidebar_label: Pomocnicze: scenariusze
+sidebar_position: 70
 keywords: [scenariusze, BIP, PDF, nagranie, CMS, aplikacja, dane osobowe]
 tags: [cykl-zycia-tik, scenariusze]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -221,3 +221,6 @@ W scenariuszach najczęściej występują ryzyka prawne, archiwalne, dostępnoś
 ## Powiązania
 
 Scenariusze należy stosować z [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurą wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedurą migracji danych](./13-procedura-migracji-danych.md), [Standardem metadanych](./16-standard-metadanych.md), [Standardem formatów archiwalnych](./17-standard-formatow-archiwalnych.md), [Standardem dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md), [Retencją i danymi osobowymi](./22-retencja-i-dane-osobowe.md), [Procedurą postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md) oraz [Listą kontrolną obsługi incydentu archiwizacji zasobów cyfrowych](./50-lista-kontrolna-incydentu-archiwizacji.md).
+
+
+

@@ -2,13 +2,13 @@
 id: 07-model-statusow-zasobow-cyfrowych
 title: Model statusów zasobów cyfrowych
 description: Statusy zasobów cyfrowych oraz zasady ich nadawania, zmiany i dokumentowania.
-sidebar_label: Model statusów
-sidebar_position: 7
+sidebar_label: Materiał: statusy
+sidebar_position: 40
 keywords: [status zasobu, treść archiwalna, wycofanie z publikacji, migracja danych, dostęp alternatywny]
 tags: [cykl-zycia-tik, model]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 # Model statusów zasobów cyfrowych
@@ -64,3 +64,6 @@ Model statusów należy stosować razem z:
 - [Standardem metadanych](./16-standard-metadanych.md),
 - [Dokumentowaniem procesu wycofania](./26-dokumentowanie-procesu-wycofania.md),
 - [Procedurą postępowania w przypadku nieprawidłowej archiwizacji lub nieuprawnionego usunięcia zasobu](./49-procedura-postepowania-w-przypadku-nieprawidlowej-archiwizacji.md).
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 43-wzor-informacji-o-dostepie-alternatywnym
 title: Wzór informacji o dostępie alternatywnym
 description: Wzór informacji dla użytkowników o sposobie uzyskania dostępu alternatywnego do zasobu.
-sidebar_label: Dostęp alternatywny
-sidebar_position: 43
+sidebar_label: Operacyjne: dostęp alternatywny
+sidebar_position: 88
 keywords: [wzór, dostęp alternatywny, deklaracja dostępności, kontakt, zgłoszenie]
 tags: [cykl-zycia-tik, dostępność]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -59,3 +59,6 @@ Ta treść może nie być w pełni dostępna cyfrowo. Aby uzyskać ją w dostęp
 ## Powiązania
 
 Wzór należy stosować z [Alternatywnym dostępem do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md), [Standardem dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md), [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Modelem decyzyjnym](./08-model-decyzyjny.md), [Modelem ryzyk](./09-model-ryzyk.md) i [Wzorem opisu treści archiwalnej](./42-wzor-opisu-tresci-archiwalnej.md).
+
+
+

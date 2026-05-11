@@ -1,14 +1,14 @@
----
+﻿---
 id: 26-dokumentowanie-procesu-wycofania
 title: Dokumentowanie procesu wycofania
 description: Zasady dokumentowania decyzji, eksportów, testów i potwierdzeń związanych z wycofaniem zasobów oraz systemów.
-sidebar_label: Dokumentowanie
-sidebar_position: 26
+sidebar_label: Materiał: dokumentowanie
+sidebar_position: 56
 keywords: [dokumentowanie, decyzja o wycofaniu, protokół eksportu, rejestr ryzyk, migracja]
 tags: [cykl-zycia-tik, dokumentowanie]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -71,4 +71,7 @@ Ryzykiem jest także dokumentowanie rozproszone w wiadomościach poczty elektron
 
 ## Powiązania
 
-Dokumentowanie wspiera [Procedurę wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurę wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedurę migracji danych](./13-procedura-migracji-danych.md), [Procedurę przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md), [Model cyklu życia](./06-model-cyklu-zycia.md), [Model statusów zasobów](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md).
+Dokumentowanie wspiera [Procedurę wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurę wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedurę migracji danych](./13-procedura-migracji-danych.md), [Procedurę przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md), [Załącznik 1. Model cyklu życia zasobów cyfrowych](./06-model-cyklu-zycia.md), [Model statusów zasobów](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md) i [Model ryzyk](./09-model-ryzyk.md).
+
+
+

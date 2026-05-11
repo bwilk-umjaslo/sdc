@@ -1,14 +1,14 @@
----
+﻿---
 id: 33-konflikty-prawne-i-decyzyjne
 title: Konflikty prawne i decyzyjne
 description: Zasady rozstrzygania konfliktów prawnych i decyzyjnych przy archiwizacji oraz wycofywaniu zasobów cyfrowych.
-sidebar_label: Konflikty
-sidebar_position: 33
+sidebar_label: Pomocnicze: konflikty
+sidebar_position: 72
 keywords: [konflikty prawne, dostępność, RODO, BIP, retencja, informacja publiczna]
 tags: [cykl-zycia-tik, prawo, decyzje]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -38,7 +38,7 @@ Jeżeli obowiązki pozostają w napięciu, należy dążyć do rozwiązania prop
 
 **Podstawy prawne:** ustawa o dostępności cyfrowej, ustawa o dostępie do informacji publicznej, ustawa o narodowym zasobie archiwalnym i archiwach, ustawa o krajowym systemie ewidencji dokumentów i zarządzaniu dokumentacją elektroniczną oraz obowiązujące rozporządzenia wykonawcze dotyczące instrukcji kancelaryjnej i BIP.
 
-**Zasada rozstrzygnięcia:** niedostępność nie jest samodzielną podstawą usunięcia zasobu. Należy ocenić, czy zasób pozostaje publiczny, czy będzie udostępniany na wniosek, czy wymaga naprawy, opisu, transkrypcji albo dostępu alternatywnego. Decyzja powinna uwzględniać [Standard dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md) i [Alternatywny dostęp do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md).
+**Zasada rozstrzygnięcia:** niedostępność nie jest samodzielną podstawą usunięcia zasobu. Należy ocenić, czy zasób pozostaje publiczny, czy będzie udostępniany na wniosek, czy wymaga naprawy, opisu, transkrypcji albo dostępu alternatywnego. Decyzja powinna uwzględniać [Załącznik 3. Dostępność cyfrowa zasobów archiwalnych i historycznych](./19-standard-dostepu-do-tresci-archiwalnych.md) i [Alternatywny dostęp do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md).
 
 ### RODO vs dostęp do informacji
 
@@ -87,3 +87,6 @@ Największym ryzykiem jest jednostronne rozstrzygnięcie konfliktu przez jedną 
 ## Powiązania
 
 Dokument należy stosować razem z [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurą wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Archiwizacją w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md), [Retencją i danymi osobowymi](./22-retencja-i-dane-osobowe.md), [Integracją z EZD](./23-integracja-z-ezd.md) oraz [Dokumentowaniem procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

@@ -1,14 +1,14 @@
----
+﻿---
 id: 40-rejestr-decyzji-archiwizacyjnych
 title: Rejestr decyzji archiwizacyjnych
 description: Wzór rejestru decyzji archiwizacyjnych dotyczących zasobów cyfrowych.
-sidebar_label: Rejestr decyzji
-sidebar_position: 40
+sidebar_label: Operacyjne: rejestr decyzji
+sidebar_position: 85
 keywords: [rejestr, decyzje archiwizacyjne, status, kategoria archiwalna, dostęp]
 tags: [cykl-zycia-tik, rejestr]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -53,3 +53,6 @@ Za prowadzenie rejestru odpowiada właściciel procesu archiwizacji wskazany prz
 ## Powiązania
 
 Rejestr powinien być stosowany z [Modelem decyzyjnym](./08-model-decyzyjny.md), [Modelem ryzyk](./09-model-ryzyk.md), [Mapą odpowiedzialności](./30-mapa-odpowiedzialnosci.md), [Listą kontrolną archiwizacji](./35-lista-kontrolna-archiwizacji.md), [Standardem metadanych](./16-standard-metadanych.md) i [Dokumentowaniem procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

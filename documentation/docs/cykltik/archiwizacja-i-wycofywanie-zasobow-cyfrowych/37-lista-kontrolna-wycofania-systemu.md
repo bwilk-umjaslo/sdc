@@ -1,14 +1,14 @@
----
+﻿---
 id: 37-lista-kontrolna-wycofania-systemu
 title: Lista kontrolna wycofania systemu
 description: Lista kontrolna czynności wymaganych przed wyłączeniem systemu teleinformatycznego.
-sidebar_label: Lista systemu
-sidebar_position: 37
+sidebar_label: Operacyjne: lista systemu
+sidebar_position: 82
 keywords: [lista kontrolna, wycofanie systemu, inwentaryzacja, eksport, migracja, test odtworzenia]
 tags: [cykl-zycia-tik, lista-kontrolna]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -72,3 +72,6 @@ Wyłączenie systemu bez spełnienia punktów blokujących może spowodować utr
 ## Powiązania
 
 Lista wykonuje wymagania [Procedury wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedury migracji danych](./13-procedura-migracji-danych.md), [Wymagań dla systemów](./24-wymagania-dla-systemow.md), [Kryteriów wycofania systemu](./25-kryteria-wycofania-systemu.md), [Dokumentowania procesu wycofania](./26-dokumentowanie-procesu-wycofania.md) i [Modelu dla dużych podmiotów](./29-model-dla-duzych-podmiotow.md).
+
+
+

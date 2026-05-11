@@ -2,13 +2,13 @@
 id: 03-zakres-stosowania-archiwizacji
 title: Zakres stosowania zalecenia
 description: Zakres zasobów, systemów i sytuacji objętych procedurą archiwizacji i wycofywania zasobów cyfrowych.
-sidebar_label: Zakres stosowania
-sidebar_position: 3
+sidebar_label: Materiał: zakres
+sidebar_position: 31
 keywords: [zakres stosowania, dokumenty elektroniczne, BIP, CMS, systemy dziedzinowe]
 tags: [cykl-zycia-tik, zakres]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 # Zakres stosowania zalecenia
@@ -92,4 +92,7 @@ Zalecenie wskazuje natomiast, jak uwzglÄ™dniaÄ‡ te instrumenty w codzienny
 ## PowiÄ…zania w materiale
 
 Zakres stosowania naleĹĽy czytaÄ‡ Ĺ‚Ä…cznie z [Podstawami prawnymi](./04-podstawy-prawne.md), [Modelem cyklu ĹĽycia](./06-model-cyklu-zycia.md), [Modelem statusĂłw zasobĂłw](./07-model-statusow-zasobow.md) i [Modelem ryzyk](./09-model-ryzyk.md). Te dokumenty wyjaĹ›niajÄ…, kiedy zasĂłb wymaga decyzji, kto powinien jÄ… podjÄ…Ä‡ i jakie ryzyka trzeba ograniczyÄ‡.
+
+
+
 

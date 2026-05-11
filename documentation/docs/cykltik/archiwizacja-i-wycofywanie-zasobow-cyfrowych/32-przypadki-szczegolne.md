@@ -1,14 +1,14 @@
----
+﻿---
 id: 32-przypadki-szczegolne
 title: Przypadki szczególne
 description: Zasady postępowania w trudnych przypadkach archiwizacji i wycofywania zasobów cyfrowych.
-sidebar_label: Przypadki szczególne
-sidebar_position: 32
+sidebar_label: Pomocnicze: przypadki
+sidebar_position: 71
 keywords: [brak metadanych, brak JRWA, brak właściciela, uszkodzone pliki, format nieczytelny]
 tags: [cykl-zycia-tik, przypadki-szczegolne]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -95,3 +95,6 @@ Przypadki szczególne są ryzykami blokującymi, jeżeli uniemożliwiają ustale
 ## Powiązania
 
 Dokument uzupełnia [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurę wycofywania systemów](./12-procedura-wycofywania-systemow.md), [Procedurę kwalifikacji archiwalnej](./14-procedura-kwalifikacji-archiwalnej.md), [Standard metadanych](./16-standard-metadanych.md), [Standard integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md) oraz [Wymagania dla systemów](./24-wymagania-dla-systemow.md).
+
+
+

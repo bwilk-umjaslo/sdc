@@ -1,91 +1,93 @@
----
+﻿---
 id: 19-standard-dostepu-do-tresci-archiwalnych
-title: Standard dostępu do treści archiwalnych
-description: Standard udostępniania, oznaczania i ograniczania dostępu do treści archiwalnych.
-sidebar_label: Dostęp do archiwum
-sidebar_position: 19
-keywords: [treść archiwalna, dostęp publiczny, dostęp na wniosek, dostępność cyfrowa, BIP]
-tags: [cykl-zycia-tik, dostępność]
+title: Załącznik 3. Dostępność cyfrowa zasobów archiwalnych i historycznych
+description: Normatywne zasady utrzymywania dostępności treści historycznych, oznaczania treści archiwalnych i zapewniania dostępu alternatywnego.
+sidebar_label: Zał. 3 Dostępność archiwum
+sidebar_position: 12
+keywords: [dostępność cyfrowa, treści archiwalne, zasoby historyczne, BIP, dostęp alternatywny]
+tags: [cykl-zycia-tik, załącznik, dostępność]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
-# Standard dostępu do treści archiwalnych
+# Załącznik 3. Dostępność cyfrowa zasobów archiwalnych i historycznych
 
-## Cel
+## Zakres załącznika
 
-Celem standardu jest określenie, kiedy treść archiwalna powinna pozostać publicznie dostępna, kiedy może być udostępniana na wniosek, kiedy dostęp powinien być ograniczony oraz jak zapewnić użytkownikom zrozumiałą informację o statusie zasobu.
+Załącznik określa zasady utrzymywania dostępności treści historycznych, oznaczania treści archiwalnych, zapewniania dostępu alternatywnego oraz podejmowania decyzji, kiedy wycofanie treści wymaga udostępnienia innej dostępnej formy. Łączy treści z wcześniejszych materiałów dotyczących dostępu do treści archiwalnych, alternatywnego dostępu do zasobów historycznych oraz archiwizacji w BIP i serwisach WWW.
 
-## Zakres
+## Zasada podstawowa
 
-Standard stosuje się do archiwalnych stron WWW, wpisów BIP, załączników, dokumentów, multimediów, stron projektów, komunikatów, formularzy, zasobów historycznych oraz materiałów wycofanych z aktywnej publikacji, ale nadal zachowanych przez podmiot.
+Archiwizacja, migracja albo wycofanie zasobu nie powinny powodować utraty dostępności informacji, która nadal ma znaczenie dla użytkowników, dokumentuje działanie podmiotu publicznego albo pozostaje w publicznym obiegu. Treść archiwalna może być nieaktualna, ale nadal powinna być zrozumiała, możliwa do odnalezienia i dostępna w zakresie właściwym dla jej funkcji.
 
-## Zasady
+## Kiedy treść archiwalna pozostaje dostępna publicznie
 
-Archiwizacja nie może odcinać użytkownika od informacji, która nadal powinna być dostępna. Jednocześnie treść archiwalna nie powinna wprowadzać w błąd co do aktualności. Dlatego podmiot powinien łączyć dostęp z oznaczeniem statusu, opisem kontekstu i informacją o sposobie uzyskania pomocy.
+Treść powinna pozostać publicznie dostępna, jeżeli:
 
-Sposób dostępu powinien wynikać z [Modelu decyzyjnego](./08-model-decyzyjny.md), obowiązków BIP, informacji publicznej, RODO, dostępności cyfrowej, kwalifikacji archiwalnej i oceny ryzyk.
+- jest informacją publiczną nadal istotną dla kontroli społecznej lub historii działania podmiotu;
+- dokumentuje zakończony projekt, konsultacje, konkurs, zamówienie, komunikat albo decyzję;
+- jest wymagana w BIP albo w innym publicznym rejestrze;
+- użytkownicy nadal odwołują się do niej w sprawach, skargach, wnioskach lub postępowaniach;
+- wycofanie bez alternatywy mogłoby utrudnić osobom z niepełnosprawnościami dostęp do informacji.
 
-## Wymagania minimalne
+## Oznaczanie treści archiwalnych
 
-Każda publiczna treść archiwalna powinna mieć:
+Treść archiwalna pozostająca w publicznym obiegu powinna mieć widoczne i zrozumiałe oznaczenie. Oznaczenie powinno wskazywać co najmniej:
 
-- oznaczenie, że jest treścią archiwalną albo nieaktualną,
-- datę publikacji albo archiwizacji,
-- informację, czy istnieje nowsza wersja,
-- właściciela albo jednostkę odpowiedzialną,
-- sposób zgłoszenia potrzeby dostępu alternatywnego,
-- link do aktualnej treści, jeżeli istnieje,
-- status zgodny z [Modelem statusów zasobów](./07-model-statusow-zasobow.md).
+- że treść ma charakter archiwalny albo historyczny;
+- datę publikacji, aktualizacji albo archiwizacji;
+- czy istnieje aktualna wersja, a jeżeli tak - link do niej;
+- kto odpowiada za treść lub gdzie można uzyskać informację;
+- jak zgłosić potrzebę dostępnej wersji albo dostępu alternatywnego.
 
-## Wymagania rozszerzone
+Oznaczenie nie powinno sugerować, że treść nie ma wartości. Powinno jedynie odróżniać ją od treści bieżącej.
 
-Dla treści o większym znaczeniu należy zapewnić opis kontekstu, streszczenie, wersję tekstową, transkrypcję multimediów, informację o ograniczeniach dostępności, metadane archiwalne i odwołanie do deklaracji dostępności albo kanału kontaktu.
+## Minimalne wymagania dostępności
 
-## Dostęp publiczny
+Zasób archiwalny pozostający publicznie dostępny powinien spełniać wymagania dostępności cyfrowej w zakresie możliwym i proporcjonalnym do jego funkcji, znaczenia i ryzyka. W szczególności należy zapewnić:
 
-Dostęp publiczny jest właściwy, gdy treść nadal ma znaczenie informacyjne, historyczne albo kontrolne i jej publikacja nie narusza prawa ani praw osób. Dotyczy to w szczególności archiwalnych komunikatów, dokumentów BIP, stron projektów, wyników konsultacji i materiałów dokumentujących działania podmiotu.
+- poprawne oznaczenie nagłówków, linków i języka strony;
+- dostępność plików, które nadal są wykorzystywane przez użytkowników;
+- transkrypcję albo opis dla nagrań i materiałów multimedialnych, jeżeli są potrzebne do zrozumienia informacji;
+- dostępny opis skanów albo dokumentów, których nie można odczytać technologiami wspomagającymi;
+- informację o ograniczeniach i sposobie uzyskania pomocy.
 
-Treść publiczna powinna być oznaczona tak, aby użytkownik wiedział, że może być nieaktualna i nie powinna być traktowana jako bieżąca podstawa działania.
-
-### Kryteria wyboru rodzaju dostępu
-
-- Dostęp publiczny: gdy zasób ma znaczną wartość informacyjną lub historyczną, nie zawiera danych osobowych wymagających ograniczenia, a użytkownik może być właściwie poinformowany o statusie archiwalnym.
-- Dostęp na wniosek: gdy dalsza publiczna publikacja może rodzić ryzyko, ale zasób nadal powinien być możliwy do uzyskania, np. ze względu na wartość dowodową, historyczną lub informacyjną.
-- Dostęp ograniczony: gdy przepisy, ochrona danych osobowych lub tajemnica ustawowo chroniona wymagają ograniczenia dostępu, a zasób musi być przechowywany.
-
-## Dostęp na wniosek
-
-Dostęp na wniosek jest właściwy, gdy dalsza publiczna publikacja nie jest potrzebna albo może rodzić ryzyka, ale zasób nadal powinien być możliwy do uzyskania. Dotyczy to zwłaszcza dokumentów zawierających dane osobowe, starych załączników, materiałów wymagających indywidualnej oceny albo zasobów przechowywanych poza serwisem.
-
-Informacja o dostępie na wniosek powinna wskazywać, czego dotyczy zasób, jak złożyć wniosek, kto obsługuje sprawę i w jakim trybie użytkownik otrzyma odpowiedź.
-
-## Dostęp ograniczony
-
-Dostęp ograniczony stosuje się, gdy wymagają tego przepisy, ochrona danych osobowych, bezpieczeństwo informacji, tajemnica ustawowo chroniona albo ograniczenia wynikające z charakteru dokumentacji. Ograniczenie powinno być udokumentowane i nie może zastępować analizy prawnej.
-
-## Oznaczanie treści archiwalnej
-
-Oznaczenie powinno być krótkie, zrozumiałe i widoczne. Powinno wskazywać, że treść ma charakter archiwalny, może być nieaktualna, pozostaje dostępna ze względów dokumentacyjnych albo jest dostępna na wniosek. Oznaczenie nie powinno sugerować, że treść jest nieważna, jeżeli nadal ma znaczenie dokumentacyjne.
+Jeżeli pełne dostosowanie starego zasobu jest niewspółmierne, podmiot powinien zapewnić dostęp alternatywny albo wersję informacyjną, która pozwala uzyskać tę samą istotną informację.
 
 ## Dostęp alternatywny
 
-Jeżeli treść archiwalna nie spełnia wymagań dostępności cyfrowej, podmiot powinien rozważyć naprawę, przygotowanie wersji dostępnej, opis, streszczenie, transkrypcję albo obsługę wniosku o dostęp alternatywny. Dotyczy to szczególnie starych PDF, skanów, nagrań transmisji i materiałów zewnętrznych.
+Dostęp alternatywny jest wymagany zwłaszcza wtedy, gdy zasób historyczny jest niedostępny cyfrowo, ale nadal jest potrzebny użytkownikom albo dokumentuje sprawę publiczną. Może polegać na przygotowaniu dostępnej wersji dokumentu, streszczenia, transkrypcji, opisu danych, odpowiedzi na wniosek albo udostępnieniu informacji w innym kanale.
 
-## Powiązanie z deklaracją dostępności
+Informacja o dostępie alternatywnym powinna być łatwa do znalezienia, napisana prostym językiem i powiązana z konkretnym zasobem albo grupą zasobów.
 
-Deklaracja dostępności i komunikacja o dostępności powinny uwzględniać sposób obsługi treści archiwalnych. Jeżeli serwis zawiera archiwalne dokumenty albo multimedia z ograniczeniami, użytkownik powinien wiedzieć, jak zgłosić problem i jak uzyskać dostęp do informacji.
+## Wycofanie treści a obowiązek zapewnienia alternatywy
 
-## Błędy
+Wycofanie treści wymaga zapewnienia innej dostępnej formy, jeżeli treść:
 
-Błędami są: brak oznaczenia archiwum, ukrycie treści bez informacji, pozostawienie nieaktualnego dokumentu jako aktywnego, brak kanału kontaktu, brak alternatywy dla niedostępnych treści i usuwanie archiwalnych zasobów bez decyzji.
+- nadal jest potrzebna do załatwienia sprawy albo zrozumienia działania podmiotu;
+- była podstawowym źródłem informacji dla użytkowników;
+- zawiera dane historyczne, których nie ma w aktualnej wersji serwisu;
+- była niedostępna cyfrowo, a jej usunięcie uniemożliwiłoby użytkownikowi uzyskanie informacji;
+- jest powiązana z obowiązkiem BIP, dostępem do informacji publicznej albo dokumentacją sprawy.
 
-## Konsekwencje niespełnienia
+Alternatywa nie musi zawsze oznaczać pozostawienia starego pliku publicznie. Może oznaczać dostępną wersję treści, opis archiwalny, przekierowanie do aktualnej strony, informację o trybie wnioskowym albo kontakt do jednostki odpowiedzialnej.
 
-Niespełnienie standardu może prowadzić do odcięcia użytkowników od informacji, naruszenia obowiązków dostępności cyfrowej, błędnej komunikacji publicznej, skarg oraz utraty zaufania do BIP i serwisów WWW podmiotu.
+## Migracja dostępności
 
-## Powiązania
+Podczas zmiany CMS, BIP, repozytorium lub systemu dziedzinowego należy przenieść nie tylko pliki i dane, ale także elementy dostępności: strukturę nagłówków, teksty alternatywne, etykiety formularzy, transkrypcje, napisy, opisy linków, język dokumentu, metadane dostępności i informacje o dostępie alternatywnym.
 
-Standard stosuje się z [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Standardem metadanych](./16-standard-metadanych.md), [Modelem cyklu życia](./06-model-cyklu-zycia.md), [Modelem statusów zasobów](./07-model-statusow-zasobow.md), [Modelem decyzyjnym](./08-model-decyzyjny.md) i [Modelem ryzyk](./09-model-ryzyk.md).
+Test migracji powinien obejmować próbkę zasobów archiwalnych i historycznych, w tym stare dokumenty PDF, skany, nagrania, strony projektów i załączniki BIP.
+
+## BIP i serwisy WWW
+
+W BIP i serwisach WWW należy utrzymywać rozróżnienie między treścią aktualną, archiwalną i wycofaną z publikacji. Użytkownik powinien wiedzieć, czy patrzy na treść obowiązującą, historyczną, zastąpioną nową wersją albo dostępną tylko na wniosek.
+
+Nie należy ukrywać archiwum w sposób, który uniemożliwia odnalezienie istotnej informacji publicznej. Nie należy też pozostawiać starych treści bez oznaczenia, jeżeli mogą zostać błędnie odczytane jako aktualne.
+
+## Powiązane materiały pomocnicze
+
+Szczegółowe narzędzia znajdują się w materiałach: [Alternatywny dostęp do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md), [Archiwizacja w BIP i serwisach WWW](./21-archiwizacja-w-bip-i-serwisach-www.md), [Wzór opisu treści archiwalnej](./42-wzor-opisu-tresci-archiwalnej.md), [Wzór informacji o dostępie alternatywnym](./43-wzor-informacji-o-dostepie-alternatywnym.md), [Lista kontrolna wycofania treści](./36-lista-kontrolna-wycofania-tresci.md) i [Słownik pojęć](./46-slownik-pojec.md).
+
+

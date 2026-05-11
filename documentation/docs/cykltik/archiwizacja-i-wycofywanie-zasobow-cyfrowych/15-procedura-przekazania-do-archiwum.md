@@ -1,14 +1,14 @@
----
+﻿---
 id: 15-procedura-przekazania-do-archiwum
 title: Procedura przekazania do archiwum
 description: Procedura przygotowania zasobów cyfrowych do przekazania do archiwum zakładowego albo dalszego zasobu archiwalnego.
-sidebar_label: Przekazanie do archiwum
-sidebar_position: 15
+sidebar_label: Materiał: przekazanie
+sidebar_position: 46
 keywords: [przekazanie do archiwum, archiwum zakładowe, paczka archiwalna, metadane, integralność]
 tags: [cykl-zycia-tik, archiwizacja]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -79,3 +79,6 @@ Konsekwencją może być nieprzyjęcie dokumentacji, utrata wartości dowodowej,
 ## Powiązania
 
 Procedura jest wynikiem [Procedury archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), korzysta ze [Standardu metadanych](./16-standard-metadanych.md), [Standardu formatów archiwalnych](./17-standard-formatow-archiwalnych.md) i [Standardu integralności i autentyczności](./18-standard-integralnosci-i-autentycznosci.md). Odpowiada na fazę przekazania z [Modelu cyklu życia](./06-model-cyklu-zycia.md), kończy statusy opisane w [Modelu statusów zasobów](./07-model-statusow-zasobow.md), wymaga decyzji z [Modelu decyzyjnego](./08-model-decyzyjny.md) i ogranicza ryzyka z [Modelu ryzyk](./09-model-ryzyk.md).
+
+
+

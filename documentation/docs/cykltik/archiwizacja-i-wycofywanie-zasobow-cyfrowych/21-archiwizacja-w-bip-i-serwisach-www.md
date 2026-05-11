@@ -1,14 +1,14 @@
----
+﻿---
 id: 21-archiwizacja-w-bip-i-serwisach-www
 title: Archiwizacja w BIP i serwisach WWW
 description: Zasady archiwizacji, oznaczania i dokumentowania treści w BIP oraz serwisach internetowych.
-sidebar_label: BIP i WWW
-sidebar_position: 21
+sidebar_label: Materiał: BIP i WWW
+sidebar_position: 51
 keywords: [BIP, serwis WWW, archiwizacja, linki, treść archiwalna]
 tags: [cykl-zycia-tik, BIP]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -93,3 +93,6 @@ Ryzyko prawne obejmuje naruszenie obowiązków BIP, utrudnienie dostępu do info
 ## Powiązania
 
 Dokument należy stosować razem z [Procedurą archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurą wycofywania treści](./11-procedura-wycofywania-tresci.md), [Standardem dostępu do treści archiwalnych](./19-standard-dostepu-do-tresci-archiwalnych.md) i [Alternatywnym dostępem do zasobów historycznych](./20-alternatywny-dostep-do-zasobow-historycznych.md). Decyzje powinny wynikać z [Modelu cyklu życia](./06-model-cyklu-zycia.md), [Modelu statusów zasobów](./07-model-statusow-zasobow.md), [Modelu decyzyjnego](./08-model-decyzyjny.md) i [Modelu ryzyk](./09-model-ryzyk.md).
+
+
+

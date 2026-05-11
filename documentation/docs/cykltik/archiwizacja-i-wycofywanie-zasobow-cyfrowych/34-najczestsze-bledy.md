@@ -1,14 +1,14 @@
----
+﻿---
 id: 34-najczestsze-bledy
 title: Najczęstsze błędy
 description: Wykaz najczęstszych błędów przy archiwizacji i wycofywaniu zasobów cyfrowych oraz sposoby ich unikania.
-sidebar_label: Błędy
-sidebar_position: 34
+sidebar_label: Pomocnicze: błędy
+sidebar_position: 73
 keywords: [błędy, archiwum jako folder, usuwanie bez decyzji, brak metadanych, brak eksportu]
 tags: [cykl-zycia-tik, błędy]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -45,4 +45,7 @@ Najpoważniejsze ryzyka błędów to utrata wartości dowodowej, naruszenie praw
 
 ## Powiązania
 
-Dokument uzupełnia [Model cyklu życia](./06-model-cyklu-zycia.md), [Model statusów zasobów](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md), [Model ryzyk](./09-model-ryzyk.md), [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę migracji danych](./13-procedura-migracji-danych.md) i [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+Dokument uzupełnia [Załącznik 1. Model cyklu życia zasobów cyfrowych](./06-model-cyklu-zycia.md), [Model statusów zasobów](./07-model-statusow-zasobow.md), [Model decyzyjny](./08-model-decyzyjny.md), [Model ryzyk](./09-model-ryzyk.md), [Procedurę archiwizacji zasobów](./10-procedura-archiwizacji-zasobow.md), [Procedurę migracji danych](./13-procedura-migracji-danych.md) i [Dokumentowanie procesu wycofania](./26-dokumentowanie-procesu-wycofania.md).
+
+
+

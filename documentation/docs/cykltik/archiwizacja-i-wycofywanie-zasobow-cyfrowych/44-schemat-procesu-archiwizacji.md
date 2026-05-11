@@ -1,14 +1,14 @@
----
+﻿---
 id: 44-schemat-procesu-archiwizacji
 title: Schemat procesu archiwizacji
 description: Schemat procesu archiwizacji zasobu cyfrowego od identyfikacji do przekazania albo brakowania.
-sidebar_label: Schemat archiwizacji
-sidebar_position: 44
+sidebar_label: Operacyjne: schemat archiwizacji
+sidebar_position: 89
 keywords: [schemat, proces archiwizacji, kwalifikacja, decyzja, brakowanie]
 tags: [cykl-zycia-tik, schemat]
 opracowanie: Bartłomiej Wilk
 data_zgloszenia: 29 kwietnia 2026 r.
-data_aktualizacji: 29 kwietnia 2026 r.
+data_aktualizacji: 11 maja 2026 r.
 wersja_robocza: true
 ---
 
@@ -56,3 +56,6 @@ flowchart TD
 ## Powiązania
 
 Schemat należy stosować z [Modelem cyklu życia](./06-model-cyklu-zycia.md), [Modelem statusów zasobów](./07-model-statusow-zasobow.md), [Modelem decyzyjnym](./08-model-decyzyjny.md), [Listą kontrolną archiwizacji](./35-lista-kontrolna-archiwizacji.md), [Formularzem decyzji archiwizacyjnej](./38-formularz-decyzji-archiwizacyjnej.md), [Rejestrem decyzji archiwizacyjnych](./40-rejestr-decyzji-archiwizacyjnych.md) i [Procedurą przekazania do archiwum](./15-procedura-przekazania-do-archiwum.md).
+
+
+
